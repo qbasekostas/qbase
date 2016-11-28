@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,qbase
+#EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+http://163.172.209.237/swfc/2860.m3u8?sf=NTc0NDliNjQ3OWE4ZA==&token=eBDdBycirFgpku3MgXXx4w
