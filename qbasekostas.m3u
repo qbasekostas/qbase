@@ -1,5 +1,84 @@
 #EXTM3U
-#EXTINF:0,qbase
-#EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
-http://192.168.1.17:8902/tv.asf
+#EXTINF:-1 group-title="Sports" tvg-logo="http://aux2.iconspalace.com/uploads/panathinaikos-logo-icon-256.png",GreekSports 1
+#EXTVLCOPT:http-referrer=http://www.jazztv.co/embedx.php?live=hdq5&vw=100vw&vh=100vh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://web24.live:83/live/3504278019/5un3bJVGVj/21741.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/1200px-Panathinaikos_BC_logo.svg.png",GreekSports 2
+#EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://cdn.whostreams.net:8080/hls/l484y6.m3u8?s=dPSPnEJc0deWll7UmzKk4w&e=1538961106
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://2.bp.blogspot.com/-FIhzToVDIbI/TawugZYbjqI/AAAAAAAAAMA/rfvXjJpCAOs/s1600/TRIFYLLI.png",GreekSports 3
+#EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
+http://31.220.0.103:8081/live/jXX7A24Q/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE4IDQ6NTc6MzIgUE0maGFzaF92YWx1ZT1zNlp2RGEyYW1ZZW9kY1hMTEdzeWdnPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://vitrinachannel.com/wp-content/uploads/2018/03/fo-980x400.png",Vitrina
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://web.onair-radio.eu:1935/vitrina/vitrina/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",Groovy
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",Maroussi TV
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://channels.squel.media/maroussitv
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/bh1iOFz.png",Cinefil
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://bit.ly/2De9S5T
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",Maroussi '80
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://channels.squel.media/maroussi80s
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hpepWSg.png",Arena
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://web.onair-radio.eu:1935/Arenachannel/Arenachannel/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/k1UqVUA.png",Wedding TV
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://web.onair-radio.eu:1935/weddingtv/weddingtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",Cartoon TV 1
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://bit.ly/2rvaV7Q
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",Cartoon TV 2
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://176.9.126.181:1006
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",Cartoon TV 3
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://176.9.126.181:1010
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/kEPDPWX.jpg",Junior 1
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://176.9.126.181:1024
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/kEPDPWX.jpg",Junior 2
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://176.9.126.181:1022
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",Kids TV
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+mmsh://wpso.com:200/kids
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/rGzK4Hz.jpg",Squel
+#EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+http://channels.squel.media/squel
