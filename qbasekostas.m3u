@@ -82,3 +82,18 @@ mmsh://wpso.com:200/kids
 #EXTVLCOPT:http-referrer=https://telerium.tv/embed/25046.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
 http://channels.squel.media/squel
+
+#EXTINF:-1 group-title="IPTV",Vip Animation 1
+http://176.9.126.181:1002
+#EXTINF:-1,Vip Animation 2
+http://176.9.126.181:1004
+#EXTINF:-1,Vip Animation 3
+http://176.9.126.181:1006
+#EXTINF:-1,Vip Animation 4
+http://176.9.126.181:1008
+#EXTINF:-1,Vip Animation 5
+http://176.9.126.181:1010
+#EXTINF:-1,Vip Animation 6
+http://176.9.126.181:1022
+#EXTINF:-1,Vip Animation 7
+http://176.9.126.181:1024
