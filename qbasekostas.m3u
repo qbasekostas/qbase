@@ -1,17 +1,126 @@
-#EXTM3U
-#EXTINF:0,GR: OTE  SPORT1
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2809.m3u8
-#EXTINF:0,GR: OTE  SPORT2
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2808.m3u8
-#EXTINF:0,GR: OTE  SPORT 3
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2807.m3u8
-#EXTINF:0,GR: OTE  SPORT 4
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2806.m3u8
-#EXTINF:0,GR: OTE  SPORT 5
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2805.m3u8
-#EXTINF:0,GR: OTE  SPORT 6
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2804.m3u8
-#EXTINF:0,GR: OTE  SPORT 7
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2803.m3u8
-#EXTINF:0,GR: OTE  SPORT 8
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2802.m3u8
+#EXTINF:-1,Best Movies 1 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12712.ts
+#EXTINF:-1,Best Movies 2 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12711.ts
+#EXTINF:-1,Best Movies 3 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12710.ts
+#EXTINF:-1,Best Movies 4 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12709.ts
+#EXTINF:-1,Best Movies 5 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12708.ts
+#EXTINF:-1,Best Movies 6 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12707.ts
+#EXTINF:-1,Cosmote Cinema 1 FHD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19482.ts
+#EXTINF:-1,Cosmote Cinema 1 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7993.ts
+#EXTINF:-1,Cosmote Cinema 2 FHD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19481.ts
+#EXTINF:-1,Cosmote Cinema 2 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7992.ts
+#EXTINF:-1,Cosmote Cinema 3 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7991.ts
+#EXTINF:-1,Cosmote Cinema 4 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7990.ts
+#EXTINF:-1,Fox HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7986.ts
+#EXTINF:-1,Fox Life GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7606.ts
+#EXTINF:-1,Cinema Greek 1 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12714.ts
+#EXTINF:-1,Cinema Greek 2 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12713.ts
+#EXTINF:-1,Greek Cinema 80s 1 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12706.ts
+#EXTINF:-1,Greek Cinema 80s 2 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12705.ts
+#EXTINF:-1,Greek Cinema 80s 3 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12704.ts
+#EXTINF:-1,Greek Old Movies 1 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12702.ts
+#EXTINF:-1,Greek Old Movies 2 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12701.ts
+#EXTINF:-1,Greek Old Movies 3 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12700.ts
+#EXTINF:-1,Greek Series 1 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12699.ts
+#EXTINF:-1,Greek Series 2 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12698.ts
+#EXTINF:-1,Baby HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7617.ts
+#EXTINF:-1,Cartoons HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7589.ts
+#EXTINF:-1,Disney Channel HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7628.ts
+#EXTINF:-1,Disney Junior HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7626.ts
+#EXTINF:-1,Disney XD HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7627.ts
+#EXTINF:-1,Kids 1 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12683.ts
+#EXTINF:-1,Kids 2 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12682.ts
+#EXTINF:-1,Kids 3 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12681.ts
+#EXTINF:-1,Kids 4 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12680.ts
+#EXTINF:-1,Kids 5 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12679.ts
+#EXTINF:-1,KIDS 6 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19486.ts
+#EXTINF:-1,KIDS 7(Zouzounia) GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19485.ts
+#EXTINF:-1,Animal Planet GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/12691.ts
+#EXTINF:-1,Animal Planet HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/13433.ts
+#EXTINF:-1,Crime Investigation HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19490.ts
+#EXTINF:-1,Discovery Channel HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7625.ts
+#EXTINF:-1,Discovery ID HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7624.ts
+#EXTINF:-1,Discovery IDX GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19489.ts
+#EXTINF:-1,Discovery Science HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7623.ts
+#EXTINF:-1,Discovery Showcase HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7622.ts
+#EXTINF:-1,Discovery Turbo Xtra GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19488.ts
+#EXTINF:-1,Nat Geo HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19484.ts
+#EXTINF:-1,Nat Geo Wild HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7621.ts
+#EXTINF:-1,National Geo HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7597.ts
+#EXTINF:-1,National Geographic HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7620.ts
+#EXTINF:-1,Cosmote Sport 1 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/8001.ts
+#EXTINF:-1,Cosmote Sport 1 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/625229.ts
+#EXTINF:-1,Cosmote Sport 2 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/53279.ts
+#EXTINF:-1,Cosmote Sport 2 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19479.ts
+#EXTINF:-1,Cosmote Sport 3 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/625247.ts
+#EXTINF:-1,Cosmote Sport 3 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/625244.ts
+#EXTINF:-1,Cosmote Sport 3 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/625246.ts
+#EXTINF:-1,Cosmote Sport 4 GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/19477.ts
+#EXTINF:-1,Cosmote Sport 4 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/625245.ts
+#EXTINF:-1,Cosmote Sport 5 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7997.ts
+#EXTINF:-1,Cosmote Sport 6 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/7996.ts
+#EXTINF:-1,Cosmote Sport 7 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/53433.ts
+#EXTINF:-1,Cosmote Sport 8 HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/79941.ts
+#EXTINF:-1,Cosmote Highlight HD GR
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/50703.ts
