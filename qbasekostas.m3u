@@ -1,111 +1,81 @@
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids 1" tvg-logo="" group-title="Greece",GR: Kids 1
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12705.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids 2" tvg-logo="" group-title="Greece",GR: Kids 2
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12704.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids 3" tvg-logo="" group-title="Greece",GR: Kids 3
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12703.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids 4" tvg-logo="" group-title="Greece",GR: Kids 4
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12702.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids 5" tvg-logo="" group-title="Greece",GR: Kids 5
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12701.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids 6" tvg-logo="" group-title="Greece",GR: Kids 6
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12700.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids 7" tvg-logo="" group-title="Greece",GR: Kids 7
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12699.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids 9" tvg-logo="" group-title="Greece",GR: Kids 9
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12698.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids 10" tvg-logo="" group-title="Greece",GR: Kids 10
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12697.ts
-#EXTINF:-1 tvg-ID="Babytv" tvg-name="GR: BABY TV" tvg-logo="" group-title="Greece",GR: BABY TV
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11708.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: DISNEY CHANNEL" tvg-logo="" group-title="Greece",GR: DISNEY CHANNEL
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11707.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: DISNEY JUNIOR" tvg-logo="" group-title="Greece",GR: DISNEY JUNIOR
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11706.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanethd.png" group-title="Greece",ANIMAL PLANET HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11745
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverychannel.png" group-title="Greece",DISCOVERY CHANNEL
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11743
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryshowcasehd.png" group-title="Greece",DISCOVERY HD SHOWCASE
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11742
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ID" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryid.png" group-title="Greece",DISCOVERY ID
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11741
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ID EXTRA" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryid.png" group-title="Greece",DISCOVERY ID EXTRA
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11740
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverysciencehd.png" group-title="Greece",DISCOVERY SCIENCE HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11739
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO EXTRA" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryturboxtra.png" group-title="Greece",DISCOVERY TURBO EXTRA
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11738
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowild.png" group-title="Greece",NAT GEO WILD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11727
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAFIC HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographichd.png" group-title="Greece",NATIONAL GEOGRAFIC HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11726
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" group-title="Greece",DISNEY CHANNEL
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11707
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjunior.png" group-title="Greece",DISNEY JUNIOR
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/11706
+#EXTINF:-1 tvg-ID="" tvg-name="Kids 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/Kids.png" group-title="Greece",Kids 1
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/12705
+#EXTINF:-1 tvg-ID="" tvg-name="Kids 10" tvg-logo="http://iptvreseller.xyz:1234/Anh/Kids.png" group-title="Greece",Kids 10
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/12697
+#EXTINF:-1 tvg-ID="" tvg-name="Kids 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/Kids.png" group-title="Greece",Kids 2
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/12704
+#EXTINF:-1 tvg-ID="" tvg-name="Kids 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/Kids.png" group-title="Greece",Kids 3
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/12703
+#EXTINF:-1 tvg-ID="" tvg-name="Kids 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/Kids.png" group-title="Greece",Kids 4
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/12702
+#EXTINF:-1 tvg-ID="" tvg-name="Kids 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/Kids.png" group-title="Greece",Kids 5
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/12701
+#EXTINF:-1 tvg-ID="" tvg-name="Kids 6" tvg-logo="http://iptvreseller.xyz:1234/Anh/Kids.png" group-title="Greece",Kids 6
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/12700
+#EXTINF:-1 tvg-ID="" tvg-name="Kids 7" tvg-logo="http://iptvreseller.xyz:1234/Anh/Kids.png" group-title="Greece",Kids 7
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/12699
+#EXTINF:-1 tvg-ID="" tvg-name="Kids 9" tvg-logo="http://iptvreseller.xyz:1234/Anh/Kids.png" group-title="Greece",Kids 9
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/12698
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="http://iptvreseller.xyz:1234/Anh/boomerang.png" group-title="Greece",BOOMERANG
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/29097
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" group-title="Greece",Disney XD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/29094
 
-#EXTINF:-1 tvg-ID="" tvg-name="GR: DISCOVERY CHANNEL" tvg-logo="" group-title="Greece",GR: DISCOVERY CHANNEL
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11743.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: DISCOVERY HD SHOWCASE" tvg-logo="" group-title="Greece",GR: DISCOVERY HD SHOWCASE
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11742.ts
-#EXTINF:-1 tvg-ID="Discovery" tvg-name="GR: DISCOVERY ID" tvg-logo="" group-title="Greece",GR: DISCOVERY ID
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11741.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: DISCOVERY ID EXTRA" tvg-logo="" group-title="Greece",GR: DISCOVERY ID EXTRA
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11740.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: DISCOVERY SCIENCE HD" tvg-logo="" group-title="Greece",GR: DISCOVERY SCIENCE HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11739.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: DISCOVERY TURBO EXTRA" tvg-logo="" group-title="Greece",GR: DISCOVERY TURBO EXTRA
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11738.ts
-#EXTINF:-1 tvg-ID="Anipl" tvg-name="GR: ANIMAL PLANET HD" tvg-logo="" group-title="Greece",GR: ANIMAL PLANET HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11745.ts
-#EXTINF:-1 tvg-ID="Natgeowild" tvg-name="GR: NAT GEO WILD" tvg-logo="" group-title="Greece",GR: NAT GEO WILD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11727.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NATIONAL GEOGRAFIC HD" tvg-logo="" group-title="Greece",GR: NATIONAL GEOGRAFIC HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11726.ts
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="GR: FOX HD" tvg-logo="" group-title="Greece",GR: FOX HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11719.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: FOX LIFE HD" tvg-logo="" group-title="Greece",GR: FOX LIFE HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11718.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE VILLAGE CINEMA" tvg-logo="" group-title="Greece",GR: COSMOTE VILLAGE CINEMA
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11764.ts
-#EXTINF:-1 tvg-ID="COSMOTE Cinema 1 HD GR" tvg-name="GR :OTE CINEMA 1" tvg-logo="" group-title="Greece",GR :OTE CINEMA 1
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11768.ts
-#EXTINF:-1 tvg-ID="COSMOTE Cinema 2 HD GR" tvg-name="GR: OTE CINEMA 2" tvg-logo="" group-title="Greece",GR: OTE CINEMA 2
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11767.ts
-#EXTINF:-1 tvg-ID="COSMOTE Cinema 3 GR" tvg-name="GR: OTE CINEMA 3" tvg-logo="" group-title="Greece",GR: OTE CINEMA 3
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11766.ts
-#EXTINF:-1 tvg-ID="COSMOTE Cinema 4 HD GR" tvg-name="GR: OTE CINEMA 4" tvg-logo="" group-title="Greece",GR: OTE CINEMA 4
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/11765.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Best Movies 1" tvg-logo="" group-title="Greece",GR: Best Movies 1
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12720.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Best Movies 2" tvg-logo="" group-title="Greece",GR: Best Movies 2
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12719.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Best Movies 3" tvg-logo="" group-title="Greece",GR: Best Movies 3
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12718.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Best Movies 4" tvg-logo="" group-title="Greece",GR: Best Movies 4
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12717.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Best Movies 5" tvg-logo="" group-title="Greece",GR: Best Movies 5
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12716.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Best Movies 6" tvg-logo="" group-title="Greece",GR: Best Movies 6
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12715.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cinemaeek 1" tvg-logo="" group-title="Greece",GR: Cinemaeek 1
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12722.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Cinemaeek 2" tvg-logo="" group-title="Greece",GR: Cinemaeek 2
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12721.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Cinema 80s 1" tvg-logo="" group-title="Greece",GR: Greek Cinema 80s 1
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12714.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Cinema 80s 2" tvg-logo="" group-title="Greece",GR: Greek Cinema 80s 2
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12713.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Cinema 80s 3" tvg-logo="" group-title="Greece",GR: Greek Cinema 80s 3
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12712.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Old Movies 1" tvg-logo="" group-title="Greece",GR: Greek Old Movies 1
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12710.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Old Movies 2" tvg-logo="" group-title="Greece",GR: Greek Old Movies 2
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12709.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Old Movies 3" tvg-logo="" group-title="Greece",GR: Greek Old Movies 3
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12708.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Series 1" tvg-logo="" group-title="Greece",GR: Greek Series 1
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12707.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Series 2" tvg-logo="" group-title="Greece",GR: Greek Series 2
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/12706.ts
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 1 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 1 HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/10174.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 2 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 2 HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/10173.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 3 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 3 HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/10172.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 4 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 4 HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/10171.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 5 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 5 HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/10170.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 6 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 6 HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/10169.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 7 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 7 HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/10168.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 8 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 8 HD
-http://bestbuyiptv.link:6969/live/qbase@mail.com/CpLFEp59yj/10167.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COSMOTE SPORT 1 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/otesport1.png" group-title="Greece",COSMOTE SPORT 1 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31358
+#EXTINF:-1 tvg-ID="" tvg-name="COSMOTE SPORT 2 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/otesport2.png" group-title="Greece",COSMOTE SPORT 2 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31357
+#EXTINF:-1 tvg-ID="" tvg-name="COSMOTE SPORT 3 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/otesport3.png" group-title="Greece",COSMOTE SPORT 3 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31356
+#EXTINF:-1 tvg-ID="" tvg-name="COSMOTE SPORT 4 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/otesport4.png" group-title="Greece",COSMOTE SPORT 4 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31355
+#EXTINF:-1 tvg-ID="" tvg-name="COSMOTE SPORT 5 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/otesport5.png" group-title="Greece",COSMOTE SPORT 5 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31354
+#EXTINF:-1 tvg-ID="" tvg-name="COSMOTE SPORT 6 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/otesport6.png" group-title="Greece",COSMOTE SPORT 6 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31353
+#EXTINF:-1 tvg-ID="" tvg-name="COSMOTE SPORT 7 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/otesport7.png" group-title="Greece",COSMOTE SPORT 7 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31352
+#EXTINF:-1 tvg-ID="" tvg-name="COSMOTE SPORT 8 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/otesport8.png" group-title="Greece",COSMOTE SPORT 8 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31351
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORTS 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/novasports1.png" group-title="Greece",NOVA SPORTS 1
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31402
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORTS 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/novasports2.png" group-title="Greece",NOVA SPORTS 2
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31403
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORT 2 ONLY LIVE" tvg-logo="" group-title="Greece",NOVA SPORT 2 ONLY LIVE
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31843
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORTS 1 HD ONLY LIVE" tvg-logo="" group-title="Greece",NOVA SPORTS 1 HD ONLY LIVE
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31844
+#EXTINF:-1 tvg-ID="" tvg-name="Nova Sports 24HD" tvg-logo="" group-title="Greece",Nova Sports 24HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31839
+#EXTINF:-1 tvg-ID="" tvg-name="Nova Sports 3 HD" tvg-logo="" group-title="Greece",Nova Sports 3 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31842
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORTS 4 HD" tvg-logo="" group-title="Greece",NOVA SPORTS 4 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31841
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORTS 5 HD" tvg-logo="" group-title="Greece",NOVA SPORTS 5 HD
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31840
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORTS FHD (ONLY BEST MATCH LIVE HERE)" tvg-logo="" group-title="Greece",NOVA SPORTS FHD (ONLY BEST MATCH LIVE HERE)
+http://bestbuyiptv.link:6969/sdrgh@mail.com/8qi21gk5Eq/31845
