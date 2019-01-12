@@ -13,6 +13,28 @@ http://103.194.168.200:8081/live/spstream3/playlist.m3u8?
 #EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
 http://31.220.0.103:8081/live/jXX7A24Q/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE4IDQ6NTc6MzIgUE0maGFzaF92YWx1ZT1zNlp2RGEyYW1ZZW9kY1hMTEdzeWdnPT0mdmFsaWRtaW51dGVzPTEyMA==
 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://2.bp.blogspot.com/-PpncnPlsQbc/WOKRxAzCPOI/AAAAAAAACnE/UZPoASuOW58wTM9PFhgc8-VxZm2Z2a2SwCLcB/s320/BT%2BSPORT%2B1%2BHD.png",BT Sport 1
+#EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
+http://stream.bdtv.live:8081/amr90/3/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i1.wp.com/wlivesport.com/wp-content/uploads/2018/08/bt2.png?fit=800%2C420",BT Sport 2
+#EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
+http://stream.bdtv.live:8081/amr90/4/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i0.wp.com/wlivesport.com/wp-content/uploads/2018/10/bt-sport-3.png?fit=650%2C400",BT Sport 3
+#EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
+http://stream.bdtv.live:8081/amr90/5/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://4.bp.blogspot.com/-7dm46bdQX4o/Wd6OIO6USBI/AAAAAAAAEx0/M8n7vwwfZ9AlR4uULQIvuRmVH-EmKevdQCLcBGAs/s1600/sky-sport-football.png",Sky Sport
+#EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
+http://stream.bdtv.live:8081/amr90/9/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-PREMIER.png",Sky Sport PL
+#EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
+http://stream.bdtv.live:8081/amr90/10/chunks.m3u8
+
+
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://vitrinachannel.com/wp-content/uploads/2018/03/fo-980x400.png",Vitrina
 http://web.onair-radio.eu:1935/vitrina/vitrina/playlist.m3u8
 
