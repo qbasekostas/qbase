@@ -14,6 +14,10 @@ http://103.194.168.200:8081/live/spstream3/playlist.m3u8?
 http://31.220.0.103:8081/live/jXX7A24Q/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE4IDQ6NTc6MzIgUE0maGFzaF92YWx1ZT1zNlp2RGEyYW1ZZW9kY1hMTEdzeWdnPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/On_Sport.jpg",ON Sports
+#EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
+http://185.27.116.54:1935/livestream/sno/chunklist_w904810961.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://2.bp.blogspot.com/-PpncnPlsQbc/WOKRxAzCPOI/AAAAAAAACnE/UZPoASuOW58wTM9PFhgc8-VxZm2Z2a2SwCLcB/s320/BT%2BSPORT%2B1%2BHD.png",BT Sport 1
 #EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
 http://stream.bdtv.live:8081/amr90/3/chunks.m3u8
