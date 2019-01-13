@@ -39,9 +39,6 @@ http://stream.bdtv.live:8081/amr90/9/chunks.m3u8
 http://stream.bdtv.live:8081/amr90/10/chunks.m3u8
 
 
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://vitrinachannel.com/wp-content/uploads/2018/03/fo-980x400.png",Vitrina
-http://web.onair-radio.eu:1935/vitrina/vitrina/playlist.m3u8
-
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
@@ -106,116 +103,117 @@ http://channels.squel.media/squel
 
 
 #EXTINF:-1,Disney Junior
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17568
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17568
 #EXTINF:-1,Disney Channel
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17597
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17597
 #EXTINF:-1,Jim Jam
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17572
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17572
 #EXTINF:-1,Disney XD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17598
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17598
 #EXTINF:-1,Baby TV
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/18696
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/18696
 #EXTINF:-1,Smile
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/18694
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/18694
 #EXTINF:-1,Boomerang
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/53039
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/53039
 #EXTINF:-1,Boomerang 1
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/24135
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/24135
 #EXTINF:-1,Boomerang 2
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/24394
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/24394
 #EXTINF:-1,Zouzounia
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/22707
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/22707
 #EXTINF:-1,Zouzounia 1
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/24007
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/24007
 #EXTINF:-1,Alpha Kids
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/19152
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/19152
 #EXTINF:-1,Alpha Kids 1
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/41000
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/41000
 #EXTINF:-1,Alpha Kids 2
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/20839
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/20839
 #EXTINF:-1,Alpha Kids 3
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/22629
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/22629
 #EXTINF:-1,Alpha Kids 4
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/24008
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/24008
 #EXTINF:-1,Alpha Kids 5
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/24099
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/24099
 #EXTINF:-1,Alpha Animation
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/19154
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/19154
 
 #EXTINF:-1,Animal Planet
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17395
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17395
 #EXTINF:-1,Discovery
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17396
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17396
 #EXTINF:-1,Discovery Turbo  Xtra
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17571
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17571
 #EXTINF:-1,Discovery Science HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17398
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17398
 #EXTINF:-1,Discovery ID HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17400
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17400
 #EXTINF:-1,Discovery Show Case
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17397
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17397
 #EXTINF:-1,National Geographic
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52939
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52939
 #EXTINF:-1,National Geographic HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17402
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17402
 #EXTINF:-1,Nat Geo Wild HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17717
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17717
 #EXTINF:-1,History HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17394
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17394
 #EXTINF:-1,Travel Channel
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17403
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17403
 #EXTINF:-1,Viasat History
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17570
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17570
 #EXTINF:-1,Viasat Explore
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17401
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17401
 #EXTINF:-1,Viasat Nature
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52755
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52755
 #EXTINF:-1,Cosmote History HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/27428
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/27428
 
 #EXTINF:-1,Cosmote Sport 1HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17393
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17393
 #EXTINF:-1,Cosmote Sport  1HD (B)
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52189
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52189
 #EXTINF:-1,Cosmote Sport 2HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17482
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17482
 #EXTINF:-1,Cosmote Sport  2HD (B)
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52190
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52190
 #EXTINF:-1,Cosmote Sport 3HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17594
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17594
 #EXTINF:-1,Cosmote Sport  3HD (B)
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52191
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52191
 #EXTINF:-1,Cosmote Sport 4HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17599
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17599
 #EXTINF:-1,Cosmote Sport  4HD (B)
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52192
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52192
 #EXTINF:-1,Cosmote Sport 5HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17742
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17742
 #EXTINF:-1,Cosmote Sport  5HD (B)
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52193
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52193
 #EXTINF:-1,Cosmote Sport 6HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/19215
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/19215
 #EXTINF:-1,Cosmote Sport 6HD (B)
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52199
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52199
 #EXTINF:-1,Cosmote Sport 7HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/19216
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/19216
 #EXTINF:-1,Cosmote Sport 8HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/19217
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/19217
 #EXTINF:-1,Cosmote Sport 9HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52023
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52023
 #EXTINF:-1,Cosmote Sport Highlights
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/19218
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/19218
+
 #EXTINF:-1,Nova Sports 1HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17584
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17584
 #EXTINF:-1,Nova Sports 1HD (B)
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52019
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52019
 #EXTINF:-1,Nova Sports 2HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17585
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17585
 #EXTINF:-1,Nova Sports 2HD (B)
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52010
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52010
 #EXTINF:-1,Nova Sports 3HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17587
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17587
 #EXTINF:-1,Nova Sports 3HD (B)
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/52009
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/52009
 #EXTINF:-1,Nova Sports 4HD
-http://dna-iptv.com:999/o85r1FSEbA/eS5wXenNHT/17592
+http://dna-iptv.com:999/MZ31xn5xLW/2zEqtuJeWt/17592
