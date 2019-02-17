@@ -18,6 +18,11 @@ http://31.220.0.103:8081/live/jXX7A24Q/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTVLCOPT:http-referrer=http://www.webtv.ws/streams.php?live=20uPJdpC&vw=100vw&vh=100vh
 http://185.27.116.54:1935/livestream/sno/chunklist_w904810961.m3u8
 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/9YajV4V.jpg",MR BEAN TV
+https://www.youtube.com/watch?v=ovmSF0RIwTQ
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://vector.me/files/images/6/6/66449/tv_movie.png",MOVIES TV
+rtmp://eco.streams.ovh/MoviesTv/MoviesTv
 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
