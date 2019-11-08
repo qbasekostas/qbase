@@ -69,3 +69,11 @@ http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536184.m3u8
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
 #EXTINF:-1,|FR| RMC SPORT LIVE 7
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/40478.m3u8
+#EXTINF:-1,|PT| SPORT TV1 FHD
+http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/182.m3u8
+#EXTINF:-1,|PT| SPORT TV1 HD
+http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/223.m3u8
+#EXTINF:-1,|PT| SPORT TV1 FHD
+http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/213.ts
+#EXTINF:-1,|PT| SPORT TV1
+http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/215.ts
