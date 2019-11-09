@@ -1,79 +1,35 @@
 #EXTM3U
-#EXTINF:-1,|GR| NOVA SPORTS 1 HD {MATCH TIME}
-http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=1lrj1P31mFDscn5Lxip4XQ&e=1573265698
-#EXTINF:-1,|GR| NOVA SPORTS 1 [VIP]
-http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=hSFNDKlRV33-B8DtQ92t3g&e=1573266554
-#EXTINF:-1,|GR| NOVA SPORTS 2 HD [VIP]
-http://siptv-online.com:8789/live/19865/19865/36419.m3u8
-#EXTINF:-1,|GR| NOVA SPORTS 3 [VIP]
-http://siptv-online.com:8789/live/19865/19865/36418.m3u8
-#EXTINF:-1,|GR| O Sport 4 HD
-http://siptv-online.com:8789/live/19865/19865/36355.m3u8
-#EXTINF:-1,|GR| OTE SPORT 1 FHD
-http://siptv-online.com:8789/live/19865/19865/36412.m3u8
-#EXTINF:-1,|GR| OTE SPORT 2 HD
-http://siptv-online.com:8789/live/19865/19865/36353.m3u8
-#EXTINF:-1,|GR| OTE SPORT 2 HD [VIP]
-http://siptv-online.com:8789/live/19865/19865/36411.m3u8
-#EXTINF:-1,|GR| OTE SPORT 3 HD
-http://siptv-online.com:8789/live/19865/19865/36352.m3u8
-#EXTINF:-1,|GR| OTE SPORT 4 HD
-http://siptv-online.com:8789/live/19865/19865/36410.m3u8
-#EXTINF:-1,|GR| OTE SPORT 4 HD [VIP]
-http://siptv-online.com:8789/live/19865/19865/36409.m3u8
-#EXTINF:-1,|GR| OTE SPORT 5 HD
-http://siptv-online.com:8789/live/19865/19865/36351.m3u8
-#EXTINF:-1,|GR| OTE SPORT 6 HD
-http://siptv-online.com:8789/live/19865/19865/36408.m3u8
-#EXTINF:-1,|GR| OTE SPORT 7 HD
-http://siptv-online.com:8789/live/19865/19865/36407.m3u8
-#EXTINF:-1,|GR| OTE SPORT 8 HD
-http://siptv-online.com:8789/live/19865/19865/36406.m3u8
-#EXTINF:-1,|TR *| beINSport 1 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/56516.m3u8
-#EXTINF:-1,|TR *| beINSport 2 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/56515.m3u8
-#EXTINF:-1,|TR *| beINSport 3 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/56514.m3u8
-#EXTINF:-1,|TR *| beINSport 4 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/56513.m3u8
-#EXTINF:-1,|TR| BEINSPORT 1 HD
-http://siptv-online.com:8789/live/19865/19865/28517.m3u8
-#EXTINF:-1,|TR| BEINSPORT 2 HD
-http://siptv-online.com:8789/live/19865/19865/28516.m3u8
-#EXTINF:-1,|TR| BEINSPORT 3 HD
-http://siptv-online.com:8789/live/19865/19865/28515.m3u8
-#EXTINF:-1,|TR| BEINSPORT 4 HD
-http://siptv-online.com:8789/live/19865/19865/28514.m3u8
-#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
-http://siptv-online.com:8789/live/19865/19865/23457.m3u8
-#EXTINF:-1,|UK| SKY SPORT CRICKET
-http://siptv-online.com:8789/live/19865/19865/23456.m3u8
-#EXTINF:-1,|UK| SKY SPORT ACTION
-http://siptv-online.com:8789/live/19865/19865/23455.m3u8
-#EXTINF:-1,|UK| SKY SPORT GOLF HD
-http://siptv-online.com:8789/live/19865/19865/23454.m3u8
-#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
-http://siptv-online.com:8789/live/19865/19865/23453.m3u8
-#EXTINF:-1,|UK| BT SPORT 1 FHD
-http://iptv3.premium-stv.com:8789/live/btsport.pro2/yuzedygze@uyeduzedyu/67.ts
-#EXTINF:-1,|UK| BT SPORT 2 FHD
-http://iptv3.premium-stv.com:8789/live/btsport.pro2/yuzedygze@uyeduzedyu/66.ts
-#EXTINF:-1,|UK| BT SPORT 3 FHD
-http://iptv3.premium-stv.com:8789/live/btsport.pro2/yuzedygze@uyeduzedyu/65.ts
-#EXTINF:-1,|UK| BTSPORT ESPN HD
-http://siptv-online.com:8789/live/19865/19865/23449.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
-http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536184.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
-#EXTINF:-1,|FR| RMC SPORT LIVE 7
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/40478.m3u8
-#EXTINF:-1,|PT| SPORT TV1 FHD
-http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/182.m3u8
-#EXTINF:-1,|PT| SPORT TV1 HD
-http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/223.m3u8
-#EXTINF:-1,|PT| SPORT TV1 FHD
-http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/213.ts
-#EXTINF:-1,|PT| SPORT TV1
-http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sport 1" tvg-logo="" group-title="Greece",GR: Nova Sport 1
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40122.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sport 2" tvg-logo="" group-title="Greece",GR: Nova Sport 2
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40121.m3u8
+#EXTINF:-1 tvg-ID="novasports3.gr" tvg-name="GR: Nova Sport 3" tvg-logo="" group-title="Greece",GR: Nova Sport 3
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40120.m3u8
+#EXTINF:-1 tvg-ID="novasports4.gr" tvg-name="GR: Nova Sport 4" tvg-logo="https://sport-tv-guide.live/images/stations/a377.png" group-title="Greece",GR: Nova Sport 4
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40119.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sport 5" tvg-logo="" group-title="Greece",GR: Nova Sport 5
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40118.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 1" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 1
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33583.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 2" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 2
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33582.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 3" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 3
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33581.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 4" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 4
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33580.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 5" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 5
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33579.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport 1" tvg-logo="" group-title="Greece",GR: NovaSport 1
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48886.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport 2" tvg-logo="" group-title="Greece",GR: NovaSport 2
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48889.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport 3" tvg-logo="" group-title="Greece",GR: NovaSport 3
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48888.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport 4" tvg-logo="" group-title="Greece",GR: NovaSport 4
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48887.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport5" tvg-logo="" group-title="Greece",GR: NovaSport5
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48890.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 1 HD (LIVE ON MATCHES)" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 1 HD (LIVE ON MATCHES)
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/46985.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 2 HD (LIVE ON MATCHES)" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 2 HD (LIVE ON MATCHES)
+http://m3ulink.com:7899/live/paoaek1/du9JCJrR/46984.m3u8
