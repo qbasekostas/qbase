@@ -33,3 +33,20 @@ http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48890.m3u8
 http://m3ulink.com:7899/live/paoaek1/du9JCJrR/46985.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 2 HD (LIVE ON MATCHES)" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 2 HD (LIVE ON MATCHES)
 http://m3ulink.com:7899/live/paoaek1/du9JCJrR/46984.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1 HD" tvg-logo="https://daddylive.live/images/bt_sport_uk_1.png" group-title="UK",BT Sport 1 HD
+https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=eneKyLkKXuaLJLvIIcYcpg&e=1573408208
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2 HD" tvg-logo="https://daddylive.live/images/bt_sport_uk_2.png" group-title="UK",BT Sport 2 HD
+https://ul.cdn946.net:8443/hls/6pr95peo12uua.m3u8?s=GKlz4Ve109qMfKRqp8R0mA&e=1573408366
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 3 HD" tvg-logo="https://daddylive.live/images/bt_sport_uk_3.png" group-title="UK",BT Sport 3 HD
+https://ul.cdn946.net:8443/hls/qkb3zwl.m3u8?s=aDJxYt9-B6WvMYTU53QFLA&e=1573408420
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Football" tvg-logo="https://daddylive.live/images/sky_uk_sports_football.png" group-title="UK",Sky Sports Football
+https://ul.cdn946.net:8443/hls/wtswasobwlmgv.m3u8?s=IgPJ6BymYqJvAw4bY_CHvQ&e=1573408489
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Arena" tvg-logo="https://daddylive.live/images/sky-sport-arena.png" group-title="UK",Sky Sports Arena
+https://ul.cdn946.net:8443/hls/2cdqvmjw6yg.m3u8?s=AOuG9G4J_pSQ09xAexN3VA&e=1573408535
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Action" tvg-logo="https://daddylive.live/images/sky_uk_sports_action.png" group-title="UK",Sky Sports Action
+https://ul.cdn946.net:8443/hls/8gs4tif1.m3u8?s=1TyK56iTzJYxJZAzwobPig&e=1573408576
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Main Event" tvg-logo="https://daddylive.live/images/sky_uk_sports_main_event.png" group-title="UK",Sky Sports Main Event
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=QC4zG7RpCUYxQnKaBAoGnQ&e=1573408619
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Premier League" tvg-logo="https://daddylive.live/images/sky_uk_sports_premier_league.png" group-title="UK",Sky Sports Premier League
+https://ul.cdn946.net:8443/hls/u6qndo.m3u8?s=gINNbjv_RuUKHeLzNFMXyA&e=1573408788
