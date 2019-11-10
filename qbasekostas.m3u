@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sport 1" tvg-logo="" group-title="Greece",GR: Nova Sport 1
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40122.m3u8
+http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=Z5XQajIQL9I9Zju6JD567g&e=1573430053
 #EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sport 2" tvg-logo="" group-title="Greece",GR: Nova Sport 2
 http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40121.m3u8
 #EXTINF:-1 tvg-ID="novasports3.gr" tvg-name="GR: Nova Sport 3" tvg-logo="" group-title="Greece",GR: Nova Sport 3
