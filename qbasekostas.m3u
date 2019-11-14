@@ -1,54 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sport 1" tvg-logo="" group-title="Greece",GR: Nova Sport 1
-http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=Z5XQajIQL9I9Zju6JD567g&e=1573430053
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sport 2" tvg-logo="" group-title="Greece",GR: Nova Sport 2
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40121.m3u8
-#EXTINF:-1 tvg-ID="novasports3.gr" tvg-name="GR: Nova Sport 3" tvg-logo="" group-title="Greece",GR: Nova Sport 3
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40120.m3u8
-#EXTINF:-1 tvg-ID="novasports4.gr" tvg-name="GR: Nova Sport 4" tvg-logo="https://sport-tv-guide.live/images/stations/a377.png" group-title="Greece",GR: Nova Sport 4
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40119.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sport 5" tvg-logo="" group-title="Greece",GR: Nova Sport 5
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/40118.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 1" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 1
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33583.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 2" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 2
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33582.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 3" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 3
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33581.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 4" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 4
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33580.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 5" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 5
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/33579.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport 1" tvg-logo="" group-title="Greece",GR: NovaSport 1
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48886.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport 2" tvg-logo="" group-title="Greece",GR: NovaSport 2
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48889.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport 3" tvg-logo="" group-title="Greece",GR: NovaSport 3
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48888.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport 4" tvg-logo="" group-title="Greece",GR: NovaSport 4
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48887.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NovaSport5" tvg-logo="" group-title="Greece",GR: NovaSport5
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/48890.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 1 HD (LIVE ON MATCHES)" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 1 HD (LIVE ON MATCHES)
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/46985.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 2 HD (LIVE ON MATCHES)" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 2 HD (LIVE ON MATCHES)
-http://m3ulink.com:7899/live/paoaek1/du9JCJrR/46984.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1 HD" tvg-logo="https://daddylive.live/images/bt_sport_uk_1.png" group-title="UK",BT Sport 1 HD
-https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=eneKyLkKXuaLJLvIIcYcpg&e=1573408208
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2 HD" tvg-logo="https://daddylive.live/images/bt_sport_uk_2.png" group-title="UK",BT Sport 2 HD
-https://ul.cdn946.net:8443/hls/6pr95peo12uua.m3u8?s=GKlz4Ve109qMfKRqp8R0mA&e=1573408366
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 3 HD" tvg-logo="https://daddylive.live/images/bt_sport_uk_3.png" group-title="UK",BT Sport 3 HD
-https://ul.cdn946.net:8443/hls/qkb3zwl.m3u8?s=aDJxYt9-B6WvMYTU53QFLA&e=1573408420
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Football" tvg-logo="https://daddylive.live/images/sky_uk_sports_football.png" group-title="UK",Sky Sports Football
-https://ul.cdn946.net:8443/hls/wtswasobwlmgv.m3u8?s=IgPJ6BymYqJvAw4bY_CHvQ&e=1573408489
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Arena" tvg-logo="https://daddylive.live/images/sky-sport-arena.png" group-title="UK",Sky Sports Arena
-https://ul.cdn946.net:8443/hls/2cdqvmjw6yg.m3u8?s=AOuG9G4J_pSQ09xAexN3VA&e=1573408535
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Action" tvg-logo="https://daddylive.live/images/sky_uk_sports_action.png" group-title="UK",Sky Sports Action
-https://ul.cdn946.net:8443/hls/8gs4tif1.m3u8?s=1TyK56iTzJYxJZAzwobPig&e=1573408576
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Main Event" tvg-logo="https://daddylive.live/images/sky_uk_sports_main_event.png" group-title="UK",Sky Sports Main Event
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=QC4zG7RpCUYxQnKaBAoGnQ&e=1573408619
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Premier League" tvg-logo="https://daddylive.live/images/sky_uk_sports_premier_league.png" group-title="UK",Sky Sports Premier League
-https://ul.cdn946.net:8443/hls/u6qndo.m3u8?s=gINNbjv_RuUKHeLzNFMXyA&e=1573408788
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Tv1 Portugal" tvg-logo="https://daddylive.live/images/sport_tv_pt_1.png" group-title="PT",Sport Tv1 Portugal
-https://ul.cdn946.net:8443/hls/sdjyjtgb1q6m4.m3u8?s=PtUgezjCUuSDWGCVnnyvOQ&e=1573408902
+#EXTINF:-1,RMC Sport 7 Live
+http://omega.ws:8080/live/eeeee/eeeee/9784.m3u8
+#EXTINF:-1,EXYU| SPORT KLUB 1 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/49676.m3u8
+#EXTINF:-1,|TR| beIN SPORTS 3
+http://omega.ws:8080/live/eeeee/eeeee/2047.m3u8
+#EXTINF:-1,|TR| BEINSPORT 3 HD
+http://siptv-online.com:8789/live/19865/19865/28515.m3u8
+#EXTINF:-1,|TR *| beINSport 3 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/56514.m3u8
+#EXTINF:-1,|GR| NOVA SPORTS 1 HD {MATCH TIME}
+http://siptv-online.com:8789/live/19865/19865/36421.m3u8
+#EXTINF:-1,|GR| NOVA SPORTS 1 [VIP]
+http://siptv-online.com:8789/live/19865/19865/36420.m3u8
+#EXTINF:-1,|GR| NOVA SPORTS 2 HD [VIP]
+http://siptv-online.com:8789/live/19865/19865/36419.m3u8
+#EXTINF:-1,|GR| NOVA SPORTS 3 [VIP]
+http://siptv-online.com:8789/live/19865/19865/36418.m3u8
+#EXTINF:-1,|GR| O Sport 4 HD
+http://siptv-online.com:8789/live/19865/19865/36355.m3u8
+#EXTINF:-1,|GR| OTE SPORT 1 FHD
+http://siptv-online.com:8789/live/19865/19865/36412.m3u8
+#EXTINF:-1,|GR| OTE SPORT 2 HD
+http://siptv-online.com:8789/live/19865/19865/36353.m3u8
+#EXTINF:-1,|GR| OTE SPORT 2 HD [VIP]
+http://siptv-online.com:8789/live/19865/19865/36411.m3u8
+#EXTINF:-1,|GR| OTE SPORT 3 HD
+http://siptv-online.com:8789/live/19865/19865/36352.m3u8
+#EXTINF:-1,|GR| OTE SPORT 4 HD
+http://siptv-online.com:8789/live/19865/19865/36410.m3u8
+#EXTINF:-1,|GR| OTE SPORT 4 HD [VIP]
+http://siptv-online.com:8789/live/19865/19865/36409.m3u8
+#EXTINF:-1,|GR| OTE SPORT 5 HD
+http://siptv-online.com:8789/live/19865/19865/36351.m3u8
+#EXTINF:-1,|GR| OTE SPORT 6 HD
+http://siptv-online.com:8789/live/19865/19865/36408.m3u8
+#EXTINF:-1,|GR| OTE SPORT 7 HD
+http://siptv-online.com:8789/live/19865/19865/36407.m3u8
+#EXTINF:-1,|GR| OTE SPORT 8 HD
+http://siptv-online.com:8789/live/19865/19865/36406.m3u8
+#EXTINF:-1,GR| NOVA SPORT 1 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58022.m3u8
+#EXTINF:-1,GR| NOVA SPORT 2 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58021.m3u8
+#EXTINF:-1,GR| FOX SPORTS HD GR
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/57997.m3u8
+#EXTINF:-1,GR| OTE SPORT HIGHLIGHTS HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58004.m3u8
+#EXTINF:-1,GR| OTE SPORT 1 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58013.m3u8
+#EXTINF:-1,GR| OTE SPORT 2 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58012.m3u8
+#EXTINF:-1,GR| OTE SPORT 3 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58011.m3u8
+#EXTINF:-1,GR| OTE SPORT 4 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58010.m3u8
+#EXTINF:-1,GR| OTE SPORT 5 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58009.m3u8
+#EXTINF:-1,GR| OTE SPORT 6 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58008.m3u8
+#EXTINF:-1,GR| OTE SPORT 7 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58007.m3u8
+#EXTINF:-1,GR| OTE SPORT 8 HD
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58006.m3u8
+#EXTINF:-1,GR| OTE SPORT 9
+http://line.protv.cc:8000/live/JiVeJAeLTT/oKTnBzgJgX/58005.m3u8
