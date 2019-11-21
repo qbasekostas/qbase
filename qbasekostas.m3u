@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,NovaSport 2
+http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=UOtetVP2F53BT7PZh297nA&e=1574383001
+
 #EXTINF:-1,RMC SPORT 1 HD FR
 http://iptv.iptivihd.com:8000/live/Une /Une/1729.m3u8
 #EXTINF:-1,RMC SPORT 2 HD FR
@@ -41,12 +44,8 @@ http://iptv.iptivihd.com:8000/live/Une /Une/38803.m3u8
 http://iptv.iptivihd.com:8000/live/Une /Une/38804.m3u8
 #EXTINF:-1,RMC SPORT LIVE 9 FHD FR
 http://iptv.iptivihd.com:8000/live/Une /Une/38805.m3u8
-#EXTINF:-1,beIN SPORTS 9 MAX HD FR
-http://iptv.iptivihd.com:8000/live/Une /Une/38827.m3u8
 #EXTINF:-1,RMC SPORT LIVE 10 FHD FR
 http://iptv.iptivihd.com:8000/live/Une /Une/38806.m3u8
-#EXTINF:-1,beIN SPORTS 10 MAX HD FR
-http://iptv.iptivihd.com:8000/live/Une /Une/38828.m3u8
 #EXTINF:-1,RMC SPORT LIVE 11 FHD FR
 http://iptv.iptivihd.com:8000/live/Une /Une/38807.m3u8
 #EXTINF:-1,RMC SPORT LIVE 12 FHD FR
