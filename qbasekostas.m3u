@@ -2,17 +2,27 @@
 #EXTINF:-1,NovaSport 1
 http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=fIGX34wvV56MHovQTBmfoA&e=1574473772
 
-#EXTINF:-1,beIN SPORTS 2 MAX SD TR
-http://iptv.iptivihd.com:8000/live/Une /Une/28009.m3u8
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://iptv.iptivihd.com:8000/live/Une /Une/23692.m3u8
-#EXTINF:-1,beIN SPORTS MAX 2 FHD TR
-http://iptv.iptivihd.com:8000/live/Une /Une/7514.m3u8
-#EXTINF:-1,RMC SPORT 5 HD FR
-http://iptv.iptivihd.com:8000/live/Une /Une/38799.m3u8
-#EXTINF:-1,RMC SPORT LIVE 5 FHD FR
-http://iptv.iptivihd.com:8000/live/Une /Une/38801.m3u8
-#EXTINF:-1,RMC SPORT 5 HD
-http://www.sansat.net:25461/frances/123/49217
-#EXTINF:-1,TR: BEIN MAX 2 HD
-http://www.sansat.net:25461/frances/123/25860
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sport 1 HD" tvg-logo="" group-title="Greece",GR: Nova Sport 1 HD
+http://m3ulink.com:7899/145361/cZTp5gOt/52115
+#EXTINF:-1 tvg-ID="" tvg-name="Greek- Nova Sport 2 HD" tvg-logo="" group-title="Greece",Greek- Nova Sport 2 HD
+http://m3ulink.com:7899/145361/cZTp5gOt/52114
+#EXTINF:-1 tvg-ID="" tvg-name="Greek- Nova Sport 3 HD" tvg-logo="" group-title="Greece",Greek- Nova Sport 3 HD
+http://m3ulink.com:7899/145361/cZTp5gOt/52113
+#EXTINF:-1 tvg-ID="" tvg-name="Greek- Nova Sport 4 HD" tvg-logo="" group-title="Greece",Greek- Nova Sport 4 HD
+http://m3ulink.com:7899/145361/cZTp5gOt/52112
+#EXTINF:-1 tvg-ID="" tvg-name="Greek- Nova Sport 5 HD" tvg-logo="" group-title="Greece",Greek- Nova Sport 5 HD
+http://m3ulink.com:7899/145361/cZTp5gOt/52111
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 1" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 1
+http://m3ulink.com:7899/145361/cZTp5gOt/33583
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 2" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 2
+http://m3ulink.com:7899/145361/cZTp5gOt/33582
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 3" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 3
+http://m3ulink.com:7899/145361/cZTp5gOt/33581
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 4" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 4
+http://m3ulink.com:7899/145361/cZTp5gOt/33580
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 5" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 5
+http://m3ulink.com:7899/145361/cZTp5gOt/33579
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 1 HD (LIVE ON MATCHES)" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 1 HD (LIVE ON MATCHES)
+http://m3ulink.com:7899/145361/cZTp5gOt/46985
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORTS 2 HD (LIVE ON MATCHES)" tvg-logo="" group-title="Greece",GR: NOVA SPORTS 2 HD (LIVE ON MATCHES)
+http://m3ulink.com:7899/145361/cZTp5gOt/46984
