@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,NovaSport 1
+#EXTINF:-1,NovaSport 1 HD
 http://ul.cdn946.net:8080/hls/vmgf2li4zum4cn.m3u8?s=7b6TIqiAGuatStb0-vuZ1A&e=1574637507
-#EXTINF:-1,NBA
-http://cdn1.youpits.com/live/Pacers/chunks.m3u8
+#EXTINF:-1,Novasport 2 HD
+http://cdn.youpits.com/live/br3/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 1" tvg-logo="" group-title="Greece",GR: OTE SPORT 1
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1441
