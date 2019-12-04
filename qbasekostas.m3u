@@ -2,7 +2,7 @@
 #EXTINF:-1,NovaSport 1 HD
 http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=D3PAEvy6szEl_MXrr6Icug&e=1575237446
 #EXTINF:-1,NovaSport 2 HD
-http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=D_OJytVJBlFGKUaDXGrVoQ&e=1575237691
+192.168.100.12:8080
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 1" tvg-logo="" group-title="Greece",GR: OTE SPORT 1
