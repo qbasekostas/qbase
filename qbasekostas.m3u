@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,NovaSport 1 HD
-http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=D3PAEvy6szEl_MXrr6Icug&e=1575237446
+http://cdn1.60fps.live/live/sme/chunks.m3u8
 #EXTINF:-1,PC Streaming
 http://192.168.100.12:8080
 
