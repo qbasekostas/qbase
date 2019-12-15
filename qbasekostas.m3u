@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,NovaSport 1 HD
-http://cdn1.60fps.live/live/sme/chunks.m3u8
-#EXTINF:-1,PC Streaming
-http://192.168.100.12:8080
+http://ul.cdn946.net:8080/hls/lh0q8.m3u8?s=m_ffyMx2jn3m2iM-F82vTg&e=1576442143
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 1" tvg-logo="" group-title="Greece",GR: OTE SPORT 1
