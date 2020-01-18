@@ -1,21 +1,21 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-chno="1016" tvg-logo="https://www.villagecinemas.gr/media/336802/Village-Cinema-HD-ID-fire.png" tvg-id="VillageCinema.gr" tvg-name="Village Cinema HD",Village Cinema HD
+#EXTINF:-1 tvg-chno="1016" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707453&t=1524412278439" tvg-id="VillageCinema.gr" tvg-name="Village Cinema HD",Village Cinema HD
 #EXTVLCOPT:program=1016
 http://192.168.100.6:8001/1:0:1:3F8:9:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-chno="1052" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=79425466&t=1578906939279" tvg-id="1:0:1:41C:8:AA:5A0000:0:0:0:" tvg-name="Cosmote Cinema Oscars HD",Cosmote Cinema Oscars HD
 #EXTVLCOPT:program=1052
 http://192.168.100.6:8001/1:0:1:41C:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1008" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707954&t=1524412293078" tvg-id="OTECinema1.gr" tvg-name="Cosmote Cinema 1 GR",Cosmote Cinema 1
+#EXTINF:-1 tvg-chno="1008" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707954&t=1524412293078" tvg-id="CosmoteCinema1.gr" tvg-name="Cosmote Cinema 1 GR",Cosmote Cinema 1
 #EXTVLCOPT:program=1008
 http://192.168.100.6:8001/1:0:1:3F0:5:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1120" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708367&t=1524412309916" tvg-id="OTECinema2.gr" tvg-name="Cosmote Cinema 2 GR",Cosmote Cinema 2
+#EXTINF:-1 tvg-chno="1120" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708367&t=1524412309916" tvg-id="CosmoteCinema2.gr" tvg-name="Cosmote Cinema 2 GR",Cosmote Cinema 2
 #EXTVLCOPT:program=1120
 http://192.168.100.6:8001/1:0:1:460:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1094" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707931&t=1524412292383" tvg-id="OTECinema3.gr" tvg-name="Cosmote Cinema 3 GR",Cosmote Cinema 3
+#EXTINF:-1 tvg-chno="1094" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707931&t=1524412292383" tvg-id="CosmoteCinema3.gr" tvg-name="Cosmote Cinema 3 GR",Cosmote Cinema 3
 #EXTVLCOPT:program=1094
 http://192.168.100.6:8001/1:0:1:446:6:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1046" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=72924148&t=1568877282134" tvg-id="OTECinema4.gr" tvg-name="Cosmote Cinema 4 GR",Cosmote Series HD
+#EXTINF:-1 tvg-chno="1046" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=72924148&t=1568877282134" tvg-id="CosmoteCinema4.gr" tvg-name="Cosmote Cinema 4 GR",Cosmote Series HD
 #EXTVLCOPT:program=1046
 http://192.168.100.6:8001/1:0:1:416:4:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-chno="1038" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708106&t=1524412299647" tvg-id="FOX.gr" tvg-name="FOX GR",FOX HD
@@ -27,7 +27,7 @@ http://192.168.100.6:8001/1:0:1:461:9:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-chno="1044" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=62435686&t=1553760890502" tvg-id="1:0:1:414:9:AA:5A0000:0:0:0:" tvg-name="TCM HD",TCM HD
 #EXTVLCOPT:program=1044
 http://192.168.100.6:8001/1:0:1:414:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1032" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:408:4:AA:5A0000:0:0:0:" tvg-name="COSMOTE History HD",COSMOTE History HD
+#EXTINF:-1 tvg-chno="1032" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41767946&t=1524483094419" tvg-id="CosmoteHistory.gr" tvg-name="Cosmote History GR",COSMOTE History HD
 #EXTVLCOPT:program=1032
 http://192.168.100.6:8001/1:0:1:408:4:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-chno="1049" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:419:6:AA:5A0000:0:0:0:" tvg-name="National Geographic+",National Geographic+
@@ -78,7 +78,7 @@ http://192.168.100.6:8001/1:0:1:46B:8:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-chno="1048" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:418:6:AA:5A0000:0:0:0:" tvg-name="Body in Balance",Body in Balance
 #EXTVLCOPT:program=1048
 http://192.168.100.6:8001/1:0:1:418:6:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1080" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:438:2:AA:5A0000:0:0:0:" tvg-name="Euronews Greek",Euronews Greek
+#EXTINF:-1 tvg-chno="1080" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41709576&t=1524412352439" tvg-id="1:0:1:438:2:AA:5A0000:0:0:0:" tvg-name="Euronews Greek",Euronews Greek
 #EXTVLCOPT:program=1080
 http://192.168.100.6:8001/1:0:1:438:2:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-chno="1072" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:430:2:AA:5A0000:0:0:0:" tvg-name="Baby TV",Baby TV
