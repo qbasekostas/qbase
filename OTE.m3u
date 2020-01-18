@@ -6,16 +6,16 @@ http://192.168.100.6:8001/1:0:1:3F8:9:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-chno="1052" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:41C:8:AA:5A0000:0:0:0:" tvg-name="Cosmote Cinema Oscars HD",Cosmote Cinema Oscars HD
 #EXTVLCOPT:program=1052
 http://192.168.100.6:8001/1:0:1:41C:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1008" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="CosmoteCinema1.gr" tvg-name="COSMOTECinema1HD",COSMOTECinema1HD
+#EXTINF:-1 tvg-chno="1008" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="OTECinema1.gr" tvg-name="COSMOTECinema1HD",COSMOTECinema1HD
 #EXTVLCOPT:program=1008
 http://192.168.100.6:8001/1:0:1:3F0:5:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1120" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="CosmoteCinema2.gr" tvg-name="COSMOTECinema2HD",COSMOTECinema2HD
+#EXTINF:-1 tvg-chno="1120" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="OTECinema2.gr" tvg-name="COSMOTECinema2HD",COSMOTECinema2HD
 #EXTVLCOPT:program=1120
 http://192.168.100.6:8001/1:0:1:460:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1094" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="CosmoteCinema3.gr" tvg-name="COSMOTECinema3",COSMOTECinema3
+#EXTINF:-1 tvg-chno="1094" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="OTECinema3.gr" tvg-name="COSMOTECinema3",COSMOTECinema3
 #EXTVLCOPT:program=1094
 http://192.168.100.6:8001/1:0:1:446:6:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="1046" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="CosmoteCinema4.gr" tvg-name="COSMOTE Series HD",COSMOTE Series HD
+#EXTINF:-1 tvg-chno="1046" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="OTECinema4.gr" tvg-name="COSMOTE Series HD",COSMOTE Series HD
 #EXTVLCOPT:program=1046
 http://192.168.100.6:8001/1:0:1:416:4:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-chno="1038" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:40E:8:AA:5A0000:0:0:0:" tvg-name="FOX HD",FOX HD
