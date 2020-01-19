@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-country="GR" tvg-chno="1016" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707453&t=1524412278439" tvg-id="VillageCinema.gr" tvg-name="Village Cinema",Village Cinema HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1016" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707453&t=1524412278439" tvg-id="1:0:1:3F8:9:AA:5A0000:0:0:0:" tvg-name="Village Cinema",Village Cinema HD
 #EXTVLCOPT:program=1016
 http://192.168.100.6:8001/1:0:1:3F8:9:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1052" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=79425466&t=1578906939279" tvg-id="1:0:1:41C:8:AA:5A0000:0:0:0:" tvg-name="Cosmote Cinema Oscars HD",Cosmote Cinema Oscars HD
