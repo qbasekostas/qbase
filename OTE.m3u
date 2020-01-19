@@ -6,7 +6,7 @@ http://192.168.100.6:8001/1:0:1:3F8:9:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1052" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=79425466&t=1578906939279" tvg-id="1:0:1:41C:8:AA:5A0000:0:0:0:" tvg-name="Cosmote Cinema Oscars HD",Cosmote Cinema Oscars HD
 #EXTVLCOPT:program=1052
 http://192.168.100.6:8001/1:0:1:41C:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1008" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707954&t=1524412293078" tvg-id="CosmoteCinema1.gr" tvg-name="CosmoteCinema1.gr",Cosmote Cinema 1 HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1008" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707954&t=1524412293078" tvg-id="CosmoteCinema1.gr" tvg-name="COSMOTECinema1HD",Cosmote Cinema 1 HD
 #EXTVLCOPT:program=1008
 http://192.168.100.6:8001/1:0:1:3F0:5:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1120" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708367&t=1524412309916" tvg-id="CosmoteCinema2.gr" tvg-name="Cosmote Cinema 2 GR",Cosmote Cinema 2 HD
