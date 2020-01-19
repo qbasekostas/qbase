@@ -33,13 +33,13 @@ http://192.168.100.6:8001/1:0:1:408:4:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1049" tvg-logo="https://www.turksatkablo.com.tr/inc/dosya-getir.aspx?id=8233" tvg-id="1:0:1:419:6:AA:5A0000:0:0:0:" tvg-name="National Geographic+",National Geographic+
 #EXTVLCOPT:program=1049
 http://192.168.100.6:8001/1:0:1:419:6:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1107" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707234&t=1569889922617" tvg-id="NatGeoHD.gr" tvg-name="National Geographic HD",National Geographic HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1107" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707234&t=1569889922617" tvg-id="NatGeoHD.gr" tvg-name="NatGeoHD.gr",National Geographic HD
 #EXTVLCOPT:program=1107
 http://192.168.100.6:8001/1:0:1:453:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1050" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707573&t=1524412281434" tvg-id="NatGeoWild.gr" tvg-name="National Geographic WILD HD",National Geographic WILD HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1050" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707573&t=1524412281434" tvg-id="NatGeoWild.gr" tvg-name="NatGeoWild.gr",National Geographic WILD HD
 #EXTVLCOPT:program=1050
 http://192.168.100.6:8001/1:0:1:41A:2:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1136" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707833&t=1524412289031" tvg-id="FineLiving.gr" tvg-name="Fine Living HD",Fine Living HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1136" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707833&t=1524412289031" tvg-id="FineLiving.gr" tvg-name="FineLiving.gr",Fine Living HD
 #EXTVLCOPT:program=1136
 http://192.168.100.6:8001/1:0:1:470:7:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1130" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708331&t=1524412308785" tvg-id="FoodNetwork.gr" tvg-name="Food Network HD",Food Network HD
