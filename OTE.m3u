@@ -150,4 +150,3 @@ http://192.168.100.6:8001/1:0:1:444:7:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1025" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707919&t=1524412291883" tvg-id="Motorvision.gr" tvg-name="Motorvision Channel HD",Motorvision Channel HD
 #EXTVLCOPT:program=1025
 http://192.168.100.6:8001/1:0:1:401:4:AA:5A0000:0:0:0:
-
