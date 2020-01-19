@@ -6,13 +6,13 @@ http://192.168.100.6:8001/1:0:1:3F8:9:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1052" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=79425466&t=1578906939279" tvg-id="1:0:1:41C:8:AA:5A0000:0:0:0:" tvg-name="Cosmote Cinema Oscars HD",Cosmote Cinema Oscars HD
 #EXTVLCOPT:program=1052
 http://192.168.100.6:8001/1:0:1:41C:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1008" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707954&t=1524412293078" tvg-id="CosmoteCinema1.gr" tvg-name="CosmoteCinema1.gr",Cosmote Cinema 1
+#EXTINF:-1 tvg-country="GR" tvg-chno="1008" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707954&t=1524412293078" tvg-id="CosmoteCinema1.gr" tvg-name="CosmoteCinema1.gr",Cosmote Cinema 1 HD
 #EXTVLCOPT:program=1008
 http://192.168.100.6:8001/1:0:1:3F0:5:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1120" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708367&t=1524412309916" tvg-id="CosmoteCinema2.gr" tvg-name="Cosmote Cinema 2 GR",Cosmote Cinema 2
+#EXTINF:-1 tvg-country="GR" tvg-chno="1120" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708367&t=1524412309916" tvg-id="CosmoteCinema2.gr" tvg-name="Cosmote Cinema 2 GR",Cosmote Cinema 2 HD
 #EXTVLCOPT:program=1120
 http://192.168.100.6:8001/1:0:1:460:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1094" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707931&t=1524412292383" tvg-id="CosmoteCinema3.gr" tvg-name="Cosmote Cinema 3 GR",Cosmote Cinema 3
+#EXTINF:-1 tvg-country="GR" tvg-chno="1094" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707931&t=1524412292383" tvg-id="CosmoteCinema3.gr" tvg-name="Cosmote Cinema 3 GR",Cosmote Cinema 3 HD
 #EXTVLCOPT:program=1094
 http://192.168.100.6:8001/1:0:1:446:6:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1046" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=72924148&t=1568877282134" tvg-id="CosmoteCinema4.gr" tvg-name="Cosmote Cinema 4 GR",Cosmote Series HD
