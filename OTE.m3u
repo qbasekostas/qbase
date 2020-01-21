@@ -21,7 +21,7 @@ http://192.168.100.6:8001/1:0:1:416:4:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1038" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708106&t=1524412299647" tvg-url"FOX.gr" tvg-name="FOX",FOX HD
 #EXTVLCOPT:program=1038
 http://192.168.100.6:8001/1:0:1:40E:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1121" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708243&t=1524412305444" tvg-url"FOXlife.gr" tvg-name="FOX Life HD",FOX Life HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1121" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708243&t=1524412305444" tvg-url"FOXlife.gr" tvg-name="FOX Life",FOX Life HD
 #EXTVLCOPT:program=1121
 http://192.168.100.6:8001/1:0:1:461:9:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1044" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=62435686&t=1553760890502" tvg-url"TCM.gr" tvg-name="TCM",TCM HD
@@ -36,7 +36,7 @@ http://192.168.100.6:8001/1:0:1:419:6:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1107" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707234&t=1569889922617" tvg-url"NatGeoHD.gr" tvg-name="NatGeoHD.gr",National Geographic HD
 #EXTVLCOPT:program=1107
 http://192.168.100.6:8001/1:0:1:453:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1050" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707573&t=1524412281434" tvg-url"NatGeoWild.gr" tvg-name="National Geographic Wild HD",National Geographic WILD HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1050" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707573&t=1524412281434" tvg-url"NatGeoWild.gr" tvg-name="NatGeoWild.gr",National Geographic WILD HD
 #EXTVLCOPT:program=1050
 http://192.168.100.6:8001/1:0:1:41A:2:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1136" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707833&t=1524412289031" tvg-url"FineLiving.gr" tvg-name="Fine Living",Fine Living HD
