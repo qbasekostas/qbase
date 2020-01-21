@@ -36,7 +36,7 @@ http://192.168.100.6:8001/1:0:1:419:6:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1107" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707234&t=1569889922617" tvg-url"NatGeoHD.gr" tvg-name="NatGeoHD.gr",National Geographic HD
 #EXTVLCOPT:program=1107
 http://192.168.100.6:8001/1:0:1:453:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1050" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707573&t=1524412281434" tvg-url"NatGeoWild.gr" tvg-name="NatGeoWild.gr",National Geographic WILD HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1050" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707573&t=1524412281434" tvg-url"NatGeoWild.gr" tvg-name="Nat Geo Wild ",Nat Geo Wild  HD
 #EXTVLCOPT:program=1050
 http://192.168.100.6:8001/1:0:1:41A:2:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1136" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707833&t=1524412289031" tvg-url"FineLiving.gr" tvg-name="Fine Living",Fine Living HD
@@ -48,7 +48,7 @@ http://192.168.100.6:8001/1:0:1:46A:7:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1127" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707809&t=1524412288193" tvg-url"BBCEarth.gr" tvg-name="BBC Earth HD",BBC Earth HD
 #EXTVLCOPT:program=1127
 http://192.168.100.6:8001/1:0:1:467:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1135" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708355&t=1524412309545" tvg-url"OutdoorChannel.gr" tvg-name="Outdoor Channel",Outdoor Channel HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1135" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708355&t=1524412309545" tvg-url"OutdoorChannel.gr" tvg-name="Outdoor Channel",Outdoor Channel
 #EXTVLCOPT:program=1135
 http://192.168.100.6:8001/1:0:1:46F:7:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1037" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=47776094&t=1533004795877" tvg-url"travel.gr" tvg-name="Travel Channel",Travel Channel HD
