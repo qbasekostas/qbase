@@ -21,13 +21,13 @@ http://192.168.100.6:8001/1:0:1:416:4:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1038" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708106&t=1524412299647" tvg-url"FOX.gr" tvg-name="FOX GR",FOX HD
 #EXTVLCOPT:program=1038
 http://192.168.100.6:8001/1:0:1:40E:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1121" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708243&t=1524412305444" tvg-url"1:0:1:461:9:AA:5A0000:0:0:0:" tvg-name="FOX Life HD",FOX Life HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1121" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708243&t=1524412305444" tvg-url"Foxlife.gr" tvg-name="FOX Life HD",FOX Life HD
 #EXTVLCOPT:program=1121
 http://192.168.100.6:8001/1:0:1:461:9:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1044" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=62435686&t=1553760890502" tvg-url"1:0:1:414:9:AA:5A0000:0:0:0:" tvg-name="TCM HD",TCM HD
 #EXTVLCOPT:program=1044
 http://192.168.100.6:8001/1:0:1:414:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1032" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41767946&t=1524483094419" tvg-url"CosmoteHistory.gr" tvg-name="Cosmote History GR",COSMOTE History HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1032" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41767946&t=1524483094419" tvg-url"OTEHistory.gr" tvg-name="Cosmote History",COSMOTE History HD
 #EXTVLCOPT:program=1032
 http://192.168.100.6:8001/1:0:1:408:4:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1049" tvg-logo="https://www.turksatkablo.com.tr/inc/dosya-getir.aspx?id=8233" tvg-url"1:0:1:419:6:AA:5A0000:0:0:0:" tvg-name="National Geographic+",National Geographic+
@@ -36,7 +36,7 @@ http://192.168.100.6:8001/1:0:1:419:6:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1107" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707234&t=1569889922617" tvg-url"NatGeoHD.gr" tvg-name="NatGeoHD.gr",National Geographic HD
 #EXTVLCOPT:program=1107
 http://192.168.100.6:8001/1:0:1:453:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1050" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707573&t=1524412281434" tvg-url"NatGeoWild.gr" tvg-name="NatGeoWild.gr",National Geographic WILD HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1050" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707573&t=1524412281434" tvg-url"NatGeoWild.gr" tvg-name="National Geographic Wild HD",National Geographic WILD HD
 #EXTVLCOPT:program=1050
 http://192.168.100.6:8001/1:0:1:41A:2:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1136" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707833&t=1524412289031" tvg-url"FineLiving.gr" tvg-name="FineLiving.gr",Fine Living HD
@@ -51,7 +51,7 @@ http://192.168.100.6:8001/1:0:1:467:8:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1135" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708355&t=1524412309545" tvg-url"OutdoorChannel.gr" tvg-name="Outdoor Channel HD",Outdoor Channel HD
 #EXTVLCOPT:program=1135
 http://192.168.100.6:8001/1:0:1:46F:7:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1037" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=47776094&t=1533004795877" tvg-url"TravelChannel.gr" tvg-name="Travel Channel HD",Travel Channel HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1037" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=47776094&t=1533004795877" tvg-url"travel.gr" tvg-name="Travel Channel",Travel Channel HD
 #EXTVLCOPT:program=1037
 http://192.168.100.6:8001/1:0:1:40D:6:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1137" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708221&t=1524412304464" tvg-url"NauticalChannel.gr" tvg-name="Nautical Channel HD",Nautical Channel HD
