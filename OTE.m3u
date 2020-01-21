@@ -93,43 +93,43 @@ http://192.168.100.6:8001/1:0:1:403:6:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1070" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707012&t=1524412263167" tvg-url"DisneyChannel.gr" tvg-name="Disney Channel",Disney Channel
 #EXTVLCOPT:program=1070
 http://192.168.100.6:8001/1:0:1:42E:4:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1095" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065495&t=1536151167206" tvg-url"OTESport1.gr" tvg-name="COSMOTESport1HD",COSMOTESport1HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1095" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065495&t=1536151167206" tvg-url"OTESport1.gr" tvg-name="COSMOTESport1HD",COSMOTE Sport 1 
 #EXTVLCOPT:program=1095
 http://192.168.100.6:8001/1:0:1:447:5:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1015" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065483&t=1536151166635" tvg-url"OTESport2.gr" tvg-name="COSMOTESport2HD",COSMOTESport2HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1015" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065483&t=1536151166635" tvg-url"OTESport2.gr" tvg-name="COSMOTESport2HD",COSMOTE Sport 2
 #EXTVLCOPT:program=1015
 http://192.168.100.6:8001/1:0:1:3F7:6:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1028" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065507&t=1536151167628" tvg-url"OTESport3.gr" tvg-name="COSMOTESport3HD",COSMOTESport3HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1028" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065507&t=1536151167628" tvg-url"OTESport3.gr" tvg-name="COSMOTESport3HD",COSMOTE Sport 3
 #EXTVLCOPT:program=1028
 http://192.168.100.6:8001/1:0:1:404:6:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1039" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50081012&t=1536200090188" tvg-url"OTESport4.gr" tvg-name="COSMOTESport4HD",COSMOTESport4HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1039" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50081012&t=1536200090188" tvg-url"OTESport4.gr" tvg-name="COSMOTESport4HD",COSMOTE Sport 4
 #EXTVLCOPT:program=1039
 http://192.168.100.6:8001/1:0:1:40F:2:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1109" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065531&t=1536151168618" tvg-url"OTESport5.gr" tvg-name="COSMOTESport5HD",COSMOTESport5HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1109" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065531&t=1536151168618" tvg-url"OTESport5.gr" tvg-name="COSMOTESport5HD",COSMOTE Sport 5
 #EXTVLCOPT:program=1109
 http://192.168.100.6:8001/1:0:1:455:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1003" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297273&t=1535101456557" tvg-url"OTESport6.gr" tvg-name="COSMOTESport6HD",COSMOTESport6HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1003" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297273&t=1535101456557" tvg-url"OTESport6.gr" tvg-name="COSMOTESport6HD",COSMOTE Sport 6
 #EXTVLCOPT:program=1003
 http://192.168.100.6:8001/1:0:1:3EB:2:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1091" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708057&t=1524412296969" tvg-url"OTESport7.gr" tvg-name="COSMOTESport7HD",COSMOTESport7HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1091" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708057&t=1524412296969" tvg-url"OTESport7.gr" tvg-name="COSMOTESport7HD",COSMOTE Sport 7
 #EXTVLCOPT:program=1091
 http://192.168.100.6:8001/1:0:1:443:2:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1101" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708082&t=1524412298596" tvg-url"OTESport8.gr" tvg-name="COSMOTESport8HD",COSMOTESport8HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1101" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708082&t=1524412298596" tvg-url"OTESport8.gr" tvg-name="COSMOTESport8HD",COSMOTE Sport 8
 #EXTVLCOPT:program=1101
 http://192.168.100.6:8001/1:0:1:44D:6:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1126" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297261&t=1535101456094" tvg-url"CosmoteSport9.gr" tvg-name="COSMOTESport9HD",COSMOTESport9HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1126" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297261&t=1535101456094" tvg-url"CosmoteSport9.gr" tvg-name="COSMOTESport9HD",COSMOTE Sport 9
 #EXTVLCOPT:program=1126
 http://192.168.100.6:8001/1:0:1:466:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="4457" tvg-logo="https://telemach.me/oec/images/tv_channels/b17f0922d5fde9ad02df29aa8303f0f0.png" tvg-url"SportKlub.rs" tvg-name="SK HD",SK HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="4457" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-hd.png" tvg-url"SportKlub.rs" tvg-name="SK HD",Sport Klub 
 #EXTVLCOPT:program=4457
 http://192.168.100.6:8001/1:0:1:1169:9CA4:16E:A00000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1451" tvg-logo="http://sportklub.si/assets/images/programs/epg/w_sk_1.png" tvg-url"SportKlub1.rs" tvg-name="SK 1 HD",SK 1 HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1451" tvg-logo="http://sportklub.si/assets/images/programs/epg/w_sk_1.png" tvg-url"SportKlub1.rs" tvg-name="SK 1 HD",Sport Klub 1 
 #EXTVLCOPT:program=1451
 http://192.168.100.6:8001/1:0:1:5AB:75FC:16E:A00000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1452" tvg-logo="http://sportklub.si/assets/images/programs/epg/w_sk_2.png" tvg-url"SportKlub2.rs" tvg-name="SK 2 HD",SK 2 HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1452" tvg-logo="http://sportklub.si/assets/images/programs/epg/w_sk_2.png" tvg-url"SportKlub2.rs" tvg-name="SK 2 HD",Sport Klub 2 
 #EXTVLCOPT:program=1452
 http://192.168.100.6:8001/1:0:1:5AC:75FC:16E:A00000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="4458" tvg-logo="http://sportklub.si/assets/images/programs/epg/w_sk_3.png" tvg-url"SportKlub3.rs" tvg-name="SK 3 HD",SK 3 HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="4458" tvg-logo="http://sportklub.si/assets/images/programs/epg/w_sk_3.png" tvg-url"SportKlub3.rs" tvg-name="SK 3 HD",Sport Klub 3 
 #EXTVLCOPT:program=4458
 http://192.168.100.6:8001/1:0:1:116A:9CA4:16E:A00000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="4456" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/archive/1/19/20191205205208%21NovaSport2019.png" tvg-url"NovaSport.rs" tvg-name="Nova Sport HD",Nova Sport HD
