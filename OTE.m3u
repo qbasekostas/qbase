@@ -69,7 +69,7 @@ http://192.168.100.6:8001/1:0:1:45B:4:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1132" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708185&t=1524412302818" tvg-url"ViasatNature.gr" tvg-name="Viasat Nature",Viasat Nature
 #EXTVLCOPT:program=1132
 http://192.168.100.6:8001/1:0:1:46C:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1134" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708277&t=1524412307017" tvg-url"CrimeInvestigation.gr" tvg-name="Crime + Investigation",Crime + Investigation
+#EXTINF:-1 tvg-country="GR" tvg-chno="1134" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708277&t=1524412307017" tvg-url"CrimeInvestigation.gr" tvg-name="Crime and Investigation",Crime + Investigation
 #EXTVLCOPT:program=1134
 http://192.168.100.6:8001/1:0:1:46E:8:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1131" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707821&t=1524412288605" tvg-url"CBSReality.gr" tvg-name="CBS Reality",CBS Reality
