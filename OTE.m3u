@@ -150,3 +150,20 @@ http://192.168.100.6:8001/1:0:1:444:7:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1025" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707919&t=1524412291883" tvg-url"MotorvisionChannel.gr" tvg-name="Motorvision Channel",Motorvision Channel
 #EXTVLCOPT:program=1025
 http://192.168.100.6:8001/1:0:1:401:4:AA:5A0000:0:0:0:
+
+#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="novasports1" tvg-logo="http://www.frosat.net/images/logotv/original/nova-sports-1.jpg" group-title="Greece",NOVA SPORTS 1
+http://m3ulink.com:7899/qbase1/rYZeF6x8/33583
+#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="novasports1" tvg-logo="http://www.creativesatellite.co.uk/contents/media/l_nova_sports.jpg" group-title="Greece",Nova Sport 1 backup
+http://m3ulink.com:7899/qbase1/rYZeF6x8/50131
+#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="novasports1" tvg-logo="http://www.ass-media.de/pic/upload/2016/04/09/20160409180222-2fc2025a.png" group-title="Greece",NOVA SPORTS 1 HD
+http://m3ulink.com:7899/qbase1/rYZeF6x8/46985
+#EXTINF:-1 tvg-url="NovaSports2.gr" tvg-name="novasports2" tvg-logo="https://satsis.info/uploads/posts/2016-01/1453825455_www.satsis.info__nova-sport-2-hd.png" group-title="Greece",NOVA SPORTS 2
+http://m3ulink.com:7899/qbase1/rYZeF6x8/33582
+#EXTINF:-1 tvg-url="NovaSports2.gr" tvg-name="novasports2" tvg-logo="https://4.bp.blogspot.com/-awkfN4ftVm8/WUV9tsOoivI/AAAAAAAAGww/-Yd8_gNuAiwCmMAiXslYmYvEihMYqz8xQCLcBGAs/s1600/nova_cz_sport_2.png" group-title="Greece",NOVA SPORTS 2 HD
+http://m3ulink.com:7899/qbase1/rYZeF6x8/46984
+#EXTINF:-1 tvg-url="NovaSports3.gr" tvg-name="novasports3" tvg-logo="http://novahd.dnh.cz/images/stanice/novasports-3.jpg" group-title="Greece",NOVA SPORTS 3
+http://m3ulink.com:7899/qbase1/rYZeF6x8/33581
+#EXTINF:-1 tvg-url="NovaSports4.gr" tvg-name="novasports4" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/novasports4.png?m=1458723209" group-title="Greece",NOVA SPORTS 4
+http://m3ulink.com:7899/qbase1/rYZeF6x8/33580
+#EXTINF:-1 tvg-url="NovaSports5.gr" tvg-name="novasports5HD" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/novasports5.png?m=1458729309" group-title="Greece",NOVA SPORTS 5
+http://m3ulink.com:7899/qbase1/rYZeF6x8/33579
