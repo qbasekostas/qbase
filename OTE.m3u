@@ -30,7 +30,7 @@ http://192.168.100.6:8001/1:0:1:414:9:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1032" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41767946&t=1524483094419" tvg-url"OTEHistory.gr" tvg-name="Cosmote History",COSMOTE History HD
 #EXTVLCOPT:program=1032
 http://192.168.100.6:8001/1:0:1:408:4:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1049" tvg-logo="https://www.turksatkablo.com.tr/inc/dosya-getir.aspx?id=8233" tvg-url"1:0:1:419:6:AA:5A0000:0:0:0:" tvg-name="National Geographic+",National Geographic+
+#EXTINF:-1 tvg-country="GR" tvg-chno="1049" tvg-logo="https://www.turksatkablo.com.tr/inc/dosya-getir.aspx?id=8233" tvg-url"4097:1:0:1:419:6:AA:5A0000:0:0:0:" tvg-name="National Geographic+",National Geographic+
 #EXTVLCOPT:program=1049
 http://192.168.100.6:8001/1:0:1:419:6:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1107" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707234&t=1569889922617" tvg-url"NatGeoHD.gr" tvg-name="NatGeoHD.gr",National Geographic HD
