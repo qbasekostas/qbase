@@ -132,7 +132,7 @@ http://192.168.100.6:8001/1:0:1:5AC:75FC:16E:A00000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="4458" tvg-logo="http://sportklub.si/assets/images/programs/epg/w_sk_3.png" tvg-url"SportKlub3.hr" tvg-name="SK 3 HD",Sport Klub 3 
 #EXTVLCOPT:program=4458
 http://192.168.100.6:8001/1:0:1:116A:9CA4:16E:A00000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="4456" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/archive/1/19/20191205205208%21NovaSport2019.png" tvg-url"NovaSport.rs" tvg-name="Nova Sport HD",Nova Sport HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="4456" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/archive/1/19/20191205205208%21NovaSport2019.png" tvg-url"NovaSport.sr" tvg-name="Nova Sport HD",Nova Sport HD
 #EXTVLCOPT:program=4456
 http://192.168.100.6:8001/1:0:1:1168:9CA4:16E:A00000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1071" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708094&t=1524412299098" tvg-url"OTESportsHighlights.gr" tvg-name="COSMOTESportHighlightsHD",COSMOTE Sport Highlights
