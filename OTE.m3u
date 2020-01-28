@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-country="GR" tvg-chno="1016" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707453&t=1524412278439" tvg-url"1:0:1:3F8:9:AA:5A0000:0:0:0:" tvg-name="Village Cinema",Village Cinema HD
 #EXTVLCOPT:program=1016
 http://192.168.100.6:8001/1:0:1:3F8:9:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1052" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=79425466&t=1578906939279" tvg-url"4097:1:0:1:41C:8:AA:5A0000:0:0:0:" tvg-name="Cosmote Cinema Oscars HD",Cosmote Cinema Oscars HD
+#EXTINF:-1 tvg-country="GR" tvg-chno="1052" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=79425466&t=1578906939279" tvg-url"1:0:1:41C:8:AA:5A0000:0:0:0:" tvg-name="Cosmote Cinema Oscars HD",Cosmote Cinema Oscars HD
 #EXTVLCOPT:program=1052
 http://192.168.100.6:8001/1:0:1:41C:8:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1008" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707954&t=1524412293078" tvg-url"CosmoteCinema1.gr" tvg-name="COSMOTECinema1HD",Cosmote Cinema 1 HD
@@ -48,7 +48,7 @@ http://192.168.100.6:8001/1:0:1:46A:7:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1127" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707809&t=1524412288193" tvg-url"BBCEarth.gr" tvg-name="BBC Earth HD",BBC Earth HD
 #EXTVLCOPT:program=1127
 http://192.168.100.6:8001/1:0:1:467:8:AA:5A0000:0:0:0:
-#EXTINF:-1 tvg-country="GR" tvg-chno="1135" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708355&t=1524412309545" tvg-url"outdoorchannel.gr" tvg-name="Outdoor Channel",Outdoor Channel
+#EXTINF:-1 tvg-country="GR" tvg-chno="1135" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708355&t=1524412309545" tvg-url"1:0:1:46F:7:AA:5A0000:0:0:0:" tvg-name="Outdoor Channel",Outdoor Channel
 #EXTVLCOPT:program=1135
 http://192.168.100.6:8001/1:0:1:46F:7:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1037" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=47776094&t=1533004795877" tvg-url"travel.gr" tvg-name="Travel Channel",Travel Channel HD
