@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-url="" tvg-name="GR: OTE SPORT 1" tvg-logo="" group-title="Greece",GR: OTE SPORT 1
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1441
-#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="Novasports1HD" tvg-logo="" group-title="Greece",Novasports1HD
+#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="Novasports1HD" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports12001230600.jpg?r=1579244430" group-title="Greece",Novasports1HD
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1482
-#EXTINF:-1 tvg-url="NovaSports2.gr" tvg-name="Novasports2HD" tvg-logo="" group-title="Greece",Novasports2HD
+#EXTINF:-1 tvg-url="NovaSports2.gr" tvg-name="Novasports2HD" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports22001230600.jpg?r=1579244431" group-title="Greece",Novasports2HD
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1442
 #EXTINF:-1 tvg-url="" tvg-name="ERT PLAY 1" tvg-logo="" group-title="Greece",ERT PLAY 1
 https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1high.m3u8
