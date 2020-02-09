@@ -4,21 +4,21 @@ http://ul.cdn946.net:8080/hls/v8zm56mzcysw.m3u8?s=xDH_e31mbVKngYOM_ADNbQ&e=15768
 #EXTINF:-1,NovaSport 2 HD
 http://ul.cdn946.net:8080/hls/56t1x7n14jsip.m3u8?s=HthT17tCrh4AmNYu6JXw9g&e=1576804856
 
-#EXTINF:-1 tvg-ID="" tvg-name="GR: OTE SPORT 1" tvg-logo="" group-title="Greece",GR: OTE SPORT 1
+#EXTINF:-1 tvg-url="" tvg-name="GR: OTE SPORT 1" tvg-logo="" group-title="Greece",GR: OTE SPORT 1
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1441
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 1" tvg-logo="" group-title="Greece",GR: NOVA SPORT 1
+#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="GR: NOVA SPORT 1" tvg-logo="" group-title="Greece",GR: NOVA SPORT 1
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1482
-#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 2" tvg-logo="" group-title="Greece",GR: NOVA SPORT 2
+#EXTINF:-1 tvg-url="NovaSports2.gr" tvg-name="GR: NOVA SPORT 2" tvg-logo="" group-title="Greece",GR: NOVA SPORT 2
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1442
-#EXTINF:-1 tvg-ID="" tvg-name="ERT PLAY 1" tvg-logo="" group-title="Greece",ERT PLAY 1
+#EXTINF:-1 tvg-url="" tvg-name="ERT PLAY 1" tvg-logo="" group-title="Greece",ERT PLAY 1
 https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1high.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ERT PLAY 2" tvg-logo="" group-title="Greece",ERT PLAY 2
+#EXTINF:-1 tvg-url="" tvg-name="ERT PLAY 2" tvg-logo="" group-title="Greece",ERT PLAY 2
 https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2high.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ERT PLAY 3" tvg-logo="" group-title="Greece",ERT PLAY 3
+#EXTINF:-1 tvg-url="" tvg-name="ERT PLAY 3" tvg-logo="" group-title="Greece",ERT PLAY 3
 https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3high.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ERT PLAY 4" tvg-logo="" group-title="Greece",ERT PLAY 4
+#EXTINF:-1 tvg-url="" tvg-name="ERT PLAY 4" tvg-logo="" group-title="Greece",ERT PLAY 4
 https://ert-live.siliconweb.com/media/ert_play_4/ert_play_3high.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ERT PLAY 5" tvg-logo="" group-title="Greece",ERT PLAY 5
+#EXTINF:-1 tvg-url="" tvg-name="ERT PLAY 5" tvg-logo="" group-title="Greece",ERT PLAY 5
 https://ert-live.siliconweb.com/media/ert_play_5/ert_play_3high.m3u8
 #EXTINF:-1 tvg-ID="beIN SPORTS HD 1 TR" tvg-name="TR: BEIN SPORT 1 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/beinsport1hd.png" group-title="Turkey",TR: BEIN SPORT 1 HD
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/14
