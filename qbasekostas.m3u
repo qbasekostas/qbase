@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1  group-title="Greece",ΡάδιοΑρβύλα
-https://bit.ly/2J1xbAg
+https://www.youtube.com/watch?v=UrplI2b_EZo
+
 #EXTINF:-1 tvg-url="OTESport1.gr" tvg-name="COSMOTESport1HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065495&t=1536151167206" group-title="Greece",COSMOTESport1HD
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1441
 #EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="Novasports1HD" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports12001230600.jpg?r=1579244430" group-title="Greece",Novasports1HD
