@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  group-title="Greece",ΡάδιοΑρβύλα
-https://www.youtube.com/watch?v=UrplI2b_EZo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584672468/ei/dNpzXrKyI9i81gLO97rwBQ/ip/185.235.240.21/id/UrplI2b_EZo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIhALHXOByr6Wh9AgvGAy6HHv_rm6HgJsAyMIX9HFo8uhzpAiB4sUDBwBFIxlDRhIWJv1-8n_7IEdJ6smbe-6xGAOebGg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-url="OTESport1.gr" tvg-name="COSMOTESport1HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065495&t=1536151167206" group-title="Greece",COSMOTESport1HD
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1441
