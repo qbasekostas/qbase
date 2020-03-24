@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1  group-title="Greece",ΡάδιοΑρβύλα
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585016231/ei/Rxl5XobZMtaVgQeWiLvADg/ip/185.235.240.21/id/yPZuJVIcZQw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAIFAvbX8ULoJ2AQOxIOCk5Ja0z-w3EPtR0bw7-K9RRuYAiEA8W1cLsIYHd_xEQtx_hVpI0QCa2EKyCtOtaFPWJlvT88%3D/file/index.m3u8
+#EXTINF:-1  group-title="Greece",[LIVE] Coronavirus Pandemic
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585085191/ei/pyZ6XoihLs3k7gP8oKvQBg/ip/185.235.240.21/id/qgylp3Td1Bw.3/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAP757GGc1SvfJpryfT_cwnKBCSr3IGqnrSWUH1ciNLfrAiEAtHwuteVvH29Z91oIKXyFzvN6keJ3vTbKFbVR6fdhYlM%3D/file/index.m3u8
 #EXTINF:-1 tvg-url="OTESport1.gr" tvg-name="COSMOTESport1HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065495&t=1536151167206" group-title="Greece",COSMOTESport1HD
 http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1441
 #EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="Novasports1HD" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports12001230600.jpg?r=1579244430" group-title="Greece",Novasports1HD
