@@ -20,7 +20,7 @@ https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4high.m3u8
 #EXTINF:-1 tvg-url="" tvg-name="ERT PLAY 5" tvg-logo="" group-title="Greece",ERT PLAY 5
 https://ert-live.siliconweb.com/media/ert_play_5/ert_play_5high.m3u8
 
-#EXTINF:-1  group-title="Greece",Hit FM
+#EXTINF:-1  group-title="Radio",HIT FM
 http://94.23.62.189:5650/;.mp3
 
 
