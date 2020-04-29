@@ -150,24 +150,3 @@ http://192.168.100.6:8001/1:0:1:444:7:AA:5A0000:0:0:0:
 #EXTINF:-1 tvg-country="GR" tvg-chno="1025" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707919&t=1524412291883" tvg-url"MotorvisionChannel.gr" tvg-name="Motorvision Channel",Motorvision Channel
 #EXTVLCOPT:program=1025
 http://192.168.100.6:8001/1:0:1:401:4:AA:5A0000:0:0:0:
-
-#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="novasports1" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports12001230600.jpg?r=1579244430",NOVA SPORTS 1
-http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1482
-#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="novasports1" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports12001230600.jpg?r=1579244430",NOVA SPORTS 1
-http://m3ulink.com:7899/qbase1/rYZeF6x8/33583
-#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="novasports1" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports12001230600.jpg?r=1579244430",NOVA SPORTS 1
-http://m3ulink.com:7899/qbase1/rYZeF6x8/50131
-#EXTINF:-1 tvg-url="NovaSports1.gr" tvg-name="novasports1" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports12001230600.jpg?r=1579244430",NOVA SPORTS 1
-http://m3ulink.com:7899/qbase1/rYZeF6x8/46985
-#EXTINF:-1 tvg-url="NovaSports2.gr" tvg-name="novasports2" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports22001230600.jpg?r=1579244431",NOVA SPORTS 2
-http://ip.clientmarket.top:8080/0oRunqYDha/xs6kbfv074/1442
-#EXTINF:-1 tvg-url="NovaSports2.gr" tvg-name="novasports2" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports22001230600.jpg?r=1579244431",NOVA SPORTS 2
-http://m3ulink.com:7899/qbase1/rYZeF6x8/33582
-#EXTINF:-1 tvg-url="NovaSports2.gr" tvg-name="novasports2" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports22001230600.jpg?r=1579244431",NOVA SPORTS 2
-http://m3ulink.com:7899/qbase1/rYZeF6x8/46984
-#EXTINF:-1 tvg-url="NovaSports3.gr" tvg-name="novasports3" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports32001230600.jpg?r=1579244431",NOVA SPORTS 3
-http://m3ulink.com:7899/qbase1/rYZeF6x8/33581
-#EXTINF:-1 tvg-url="NovaSports4.gr" tvg-name="novasports4" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports42001230600.jpg?r=1579244431",NOVA SPORTS 4
-http://m3ulink.com:7899/qbase1/rYZeF6x8/33580
-#EXTINF:-1 tvg-url="NovaSports5.gr" tvg-name="novasports5HD" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novasports71911080200.jpg?r=1572926431",NOVA SPORTS 5
-http://m3ulink.com:7899/qbase1/rYZeF6x8/33579
