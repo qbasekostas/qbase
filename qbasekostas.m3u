@@ -1,5 +1,91 @@
 #EXTM3U
 #EXTINF:-1,NovaSport 2HD
 https://p07.quest123.top:8088/live/aekara2/playlist.m3u8?id=112673&wowzasessionid=3592927698&pk=c4832ece36771b758bcba481fb8e48922d084aa03608fde68edcb0aaa0fbc224
-#EXTINF:-1,NovaSport 2HD
-https://ul.cdn946.net:8443/hls/9l4mdbtutq6q7.m3u8?s=FebgItmXLeNl5h4uszNAqA&e=1592175762
+#EXTINF:-1,GR: Nova Sport 1 SD
+http://greekiptvlive.com/live/qbase/XWb4S83x/51728.ts
+#EXTINF:-1,GR: Nova Sport 1 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4153.ts
+#EXTINF:-1,GR: Nova Sport 2 SD
+http://greekiptvlive.com/live/qbase/XWb4S83x/51729.ts
+#EXTINF:-1,GR: Nova Sport 2 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4151.ts
+#EXTINF:-1,GR: Nova Sport 3 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4149.ts
+#EXTINF:-1,GR: Nova Sport 4 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4147.ts
+#EXTINF:-1,GR: Nova Sport 5 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4145.ts
+#EXTINF:-1,SPORT: Nova Sport 1 SD
+http://greekiptvlive.com/live/qbase/XWb4S83x/51728.ts
+#EXTINF:-1,SPORT: Nova Sport 1 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4153.ts
+#EXTINF:-1,SPORT: Nova Sport 2 SD
+http://greekiptvlive.com/live/qbase/XWb4S83x/51729.ts
+#EXTINF:-1,SPORT: Nova Sport 2 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4151.ts
+#EXTINF:-1,SPORT: Nova Sport 3 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4149.ts
+#EXTINF:-1,SPORT: Nova Sport 4 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4147.ts
+#EXTINF:-1,SPORT: Nova Sport 5 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4145.ts
+#EXTINF:-1,GR: Nova Cinema 1 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4123.ts
+#EXTINF:-1,GR: Nova Cinema 2 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4122.ts
+#EXTINF:-1,GR: Nova Cinema 3 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4121.ts
+#EXTINF:-1,GR: Nova Cinema 4 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4120.ts
+#EXTINF:-1,GR: Nova Life HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/33636.ts
+#EXTINF:-1,GR: Nova Cine Premiere 1 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/20492.ts
+#EXTINF:-1,GR: Nova Cine Premiere 2 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/20493.ts
+#EXTINF:-1,GR: Nova Cine Premiere 3 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/20494.ts
+#EXTINF:-1,GR: Nova Cine Premiere 4 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/20495.ts
+#EXTINF:-1,GR: Nova Cine Premiere 5 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4109.ts
+#EXTINF:-1,GR: Nova Premiere HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/25371.ts
+#EXTINF:-1,GR: Nova Action HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/20496.ts
+#EXTINF:-1,GR: Nova Hits HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/48475.ts
+#EXTINF:-1,GR: Nova Drama HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4118.ts
+#EXTINF:-1,GR: Nova Thriller HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4117.ts
+#EXTINF:-1,GR: Nova Comedy HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4114.ts
+#EXTINF:-1,GR: Nova Documentary HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4113.ts
+#EXTINF:-1,GR: Nova Greek HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4112.ts
+#EXTINF:-1,GR: Nova Romance HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4111.ts
+#EXTINF:-1,GR: Nova Classic HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/4110.ts
+#EXTINF:-1,GR: CINEMAX 1 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/48477.ts
+#EXTINF:-1,GR: CINEMAX 2 HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/48478.ts
+#EXTINF:-1,GR: FILMBOX EXTRA HD
+http://greekiptvlive.com/live/qbase/XWb4S83x/48479.ts
+#EXTINF:-1,GR: Popcorn  Time 1
+http://greekiptvlive.com/live/qbase/XWb4S83x/11243.ts
+#EXTINF:-1,GR: Popcorn Time  2
+http://greekiptvlive.com/live/qbase/XWb4S83x/11244.ts
+#EXTINF:-1,GR: Popcorn Time  3
+http://greekiptvlive.com/live/qbase/XWb4S83x/11245.ts
+#EXTINF:-1,GR: Popcorn Time  4
+http://greekiptvlive.com/live/qbase/XWb4S83x/11246.ts
+#EXTINF:-1,GR: Popcorn Time  5
+http://greekiptvlive.com/live/qbase/XWb4S83x/11248.ts
+#EXTINF:-1,GR: Popcorn Time  6
+http://greekiptvlive.com/live/qbase/XWb4S83x/11249.ts
+#EXTINF:-1,GR: Popcorn  Time 7
+http://greekiptvlive.com/live/qbase/XWb4S83x/11250.ts
