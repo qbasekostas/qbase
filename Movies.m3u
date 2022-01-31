@@ -1,0 +1,98 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="30333" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:767D:2BF:600:E080000:0:0:0:" tvg-name="Film+ HD",Film+ HD
+#EXTVLCOPT:program=30333
+http://192.168.100.6:8001/1:0:19:767D:2BF:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="10501" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:2905:1EDC:71:820000:0:0:0:" tvg-name="Warner TV",Warner TV
+#EXTVLCOPT:program=10501
+http://192.168.100.6:8001/1:0:1:2905:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-chno="10510" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:290E:1EDC:71:820000:0:0:0:" tvg-name="HBO HD",HBO HD
+#EXTVLCOPT:program=10510
+http://192.168.100.6:8001/1:0:1:290E:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-chno="3593" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:E09:2D50:13E:820000:0:0:0:" tvg-name="HBO2 HD",HBO2 HD
+#EXTVLCOPT:program=3593
+http://192.168.100.6:8001/1:0:1:E09:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="3594" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:E0A:2D50:13E:820000:0:0:0:" tvg-name="HBO3 HD",HBO3 HD
+#EXTVLCOPT:program=3594
+http://192.168.100.6:8001/1:0:1:E0A:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="13040" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:32F0:190:13E:820000:0:0:0:" tvg-name="CANAL+ PREMIUM HD",CANAL+ PREMIUM HD
+#EXTVLCOPT:program=13040
+http://192.168.100.6:8001/1:0:1:32F0:190:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="3110" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:C26:1E78:71:820000:0:0:0:" tvg-name="Cinemax 2 HD",Cinemax 2 HD
+#EXTVLCOPT:program=3110
+http://192.168.100.6:8001/1:0:1:C26:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-chno="14201" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:3779:44C:13E:820000:0:0:0:" tvg-name="CANAL+ FILM HD",CANAL+ FILM HD
+#EXTVLCOPT:program=14201
+http://192.168.100.6:8001/1:0:1:3779:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="14203" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:377B:44C:13E:820000:0:0:0:" tvg-name="CANAL+ FAMILY HD",CANAL+ FAMILY HD
+#EXTVLCOPT:program=14203
+http://192.168.100.6:8001/1:0:19:377B:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="107" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:6B:9F60:16E:A00000:0:0:0:" tvg-name="HBO HD",HBO HD
+#EXTVLCOPT:program=107
+http://192.168.100.6:8001/1:0:19:6B:9F60:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="105" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:69:9F60:16E:A00000:0:0:0:" tvg-name="HBO2 HD",HBO2 HD
+#EXTVLCOPT:program=105
+http://192.168.100.6:8001/1:0:19:69:9F60:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="106" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:6A:9F60:16E:A00000:0:0:0:" tvg-name="HBO3 HD",HBO3 HD
+#EXTVLCOPT:program=106
+http://192.168.100.6:8001/1:0:19:6A:9F60:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="30856" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:7888:414:1:C00000:0:0:0:" tvg-name="TNT HD",TNT HD
+#EXTVLCOPT:program=30856
+http://192.168.100.6:8001/1:0:19:7888:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29956" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:7504:420:1:C00000:0:0:0:" tvg-name="FOX HD",FOX HD
+#EXTVLCOPT:program=29956
+http://192.168.100.6:8001/1:0:19:7504:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="124" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:7C:C:85:C00000:0:0:0:" tvg-name="Sky Replay HD",Sky Replay HD
+#EXTVLCOPT:program=124
+http://192.168.100.6:8001/1:0:19:7C:C:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30806" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:7856:41A:1:C00000:0:0:0:" tvg-name="AXN HD",AXN HD
+#EXTVLCOPT:program=30806
+http://192.168.100.6:8001/1:0:19:7856:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30853" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:7885:414:1:C00000:0:0:0:" tvg-name="TCM HD",TCM HD
+#EXTVLCOPT:program=30853
+http://192.168.100.6:8001/1:0:19:7885:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30003" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:7533:426:1:C00000:0:0:0:" tvg-name="AMC HD",AMC HD
+#EXTVLCOPT:program=30003
+http://192.168.100.6:8001/1:0:19:7533:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30904" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:78B8:3EC:1:C00000:0:0:0:" tvg-name="COSMO HD",COSMO HD
+#EXTVLCOPT:program=30904
+http://192.168.100.6:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="140" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:8C:4:85:C00000:0:0:0:" tvg-name="Warner TV Film HD",Warner TV Film HD
+#EXTVLCOPT:program=140
+http://192.168.100.6:8001/1:0:19:8C:4:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30901" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:78B5:3EC:1:C00000:0:0:0:" tvg-name="TEST FX HD",TEST FX HD
+#EXTVLCOPT:program=30901
+http://192.168.100.6:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29963" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:750B:420:1:C00000:0:0:0:" tvg-name="M+ DRAMA HD",M+ DRAMA HD
+#EXTVLCOPT:program=29963
+http://192.168.100.6:8001/1:0:19:750B:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29961" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:7509:420:1:C00000:0:0:0:" tvg-name="M+ ACCIÓN HD",M+ ACCIÓN HD
+#EXTVLCOPT:program=29961
+http://192.168.100.6:8001/1:0:19:7509:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29964" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:750C:420:1:C00000:0:0:0:" tvg-name="HOLLYWOODHD",HOLLYWOODHD
+#EXTVLCOPT:program=29964
+http://192.168.100.6:8001/1:0:19:750C:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30912" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:78C0:3EC:1:C00000:0:0:0:" tvg-name="COMEDYCENTRALHD",COMEDYCENTRALHD
+#EXTVLCOPT:program=30912
+http://192.168.100.6:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="111" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:6F:D:85:C00000:0:0:0:" tvg-name="Sky Cinema Harry Potter HD",Sky Cinema Harry Potter HD
+#EXTVLCOPT:program=111
+http://192.168.100.6:8001/1:0:19:6F:D:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="131" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:83:6:85:C00000:0:0:0:" tvg-name="Sky Cinema Premieren HD",Sky Cinema Premieren HD
+#EXTVLCOPT:program=131
+http://192.168.100.6:8001/1:0:19:83:6:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="135" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:87:B:85:C00000:0:0:0:" tvg-name="Sky Cinema Premieren +24 HD",Sky Cinema Premieren +24 HD
+#EXTVLCOPT:program=135
+http://192.168.100.6:8001/1:0:19:87:B:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="107" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:6B:C:85:C00000:0:0:0:" tvg-name="Sky Cinema Best Of HD",Sky Cinema Best Of HD
+#EXTVLCOPT:program=107
+http://192.168.100.6:8001/1:0:19:6B:C:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="116" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:74:9:85:C00000:0:0:0:" tvg-name="Sky Cinema Action HD",Sky Cinema Action HD
+#EXTVLCOPT:program=116
+http://192.168.100.6:8001/1:0:19:74:9:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="139" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:8B:2:85:C00000:0:0:0:" tvg-name="Sky Cinema Family HD",Sky Cinema Family HD
+#EXTVLCOPT:program=139
+http://192.168.100.6:8001/1:0:19:8B:2:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:B:4:85:C00000:0:0:0:" tvg-name="Sky Cinema Thriller HD",Sky Cinema Thriller HD
+#EXTVLCOPT:program=11
+http://192.168.100.6:8001/1:0:19:B:4:85:C00000:0:0:0:
