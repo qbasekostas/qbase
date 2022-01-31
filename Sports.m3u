@@ -1,0 +1,101 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="1801" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:709:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium 1",Polsat Sport Premium 1
+#EXTVLCOPT:program=1801
+http://192.168.100.6:8001/1:0:1:709:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="1802" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:70A:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium 2",Polsat Sport Premium 2
+#EXTVLCOPT:program=1802
+http://192.168.100.6:8001/1:0:1:70A:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="1803" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:70B:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV3",Polsat Sport Premium PPV3
+#EXTVLCOPT:program=1803
+http://192.168.100.6:8001/1:0:1:70B:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="1804" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:70C:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV4",Polsat Sport Premium PPV4
+#EXTVLCOPT:program=1804
+http://192.168.100.6:8001/1:0:1:70C:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="1805" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:70D:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV5",Polsat Sport Premium PPV5
+#EXTVLCOPT:program=1805
+http://192.168.100.6:8001/1:0:1:70D:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="1806" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:70E:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV6",Polsat Sport Premium PPV6
+#EXTVLCOPT:program=1806
+http://192.168.100.6:8001/1:0:1:70E:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="412" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:19C:3:40:A00000:0:0:0:" tvg-name="Arena Sport 1 HD.",Arena Sport 1 HD.
+#EXTVLCOPT:program=412
+http://192.168.100.6:8001/1:0:19:19C:3:40:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="80" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:50:2:40:A00000:0:0:0:" tvg-name="Arena Sport 2 HD.",Arena Sport 2 HD.
+#EXTVLCOPT:program=80
+http://192.168.100.6:8001/1:0:19:50:2:40:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="108" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:6C:1:40:A00000:0:0:0:" tvg-name="Arena Sport 3 HD.",Arena Sport 3 HD.
+#EXTVLCOPT:program=108
+http://192.168.100.6:8001/1:0:19:6C:1:40:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="217" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:D9:1:40:A00000:0:0:0:" tvg-name="Arena 4 HD.",Arena 4 HD.
+#EXTVLCOPT:program=217
+http://192.168.100.6:8001/1:0:19:D9:1:40:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="86" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:16:56:2:40:A00000:0:0:0:" tvg-name="SportKlub 1 HD.",SportKlub 1 HD.
+#EXTVLCOPT:program=86
+http://192.168.100.6:8001/1:0:16:56:2:40:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="95" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:16:5F:1:40:A00000:0:0:0:" tvg-name="SportKlub 2 HD.",SportKlub 2 HD.
+#EXTVLCOPT:program=95
+http://192.168.100.6:8001/1:0:16:5F:1:40:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="96" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:16:60:1:40:A00000:0:0:0:" tvg-name="SportKlub 3 HD.",SportKlub 3 HD.
+#EXTVLCOPT:program=96
+http://192.168.100.6:8001/1:0:16:60:1:40:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="1004" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:3EC:50DC:16E:A00000:0:0:0:" tvg-name="SS-1 HD",SS-1 HD
+#EXTVLCOPT:program=1004
+http://192.168.100.6:8001/1:0:19:3EC:50DC:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="1005" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:3ED:50DC:16E:A00000:0:0:0:" tvg-name="SS-2 HD",SS-2 HD
+#EXTVLCOPT:program=1005
+http://192.168.100.6:8001/1:0:19:3ED:50DC:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="1006" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:3EE:50DC:16E:A00000:0:0:0:" tvg-name="SS-3 HD",SS-3 HD
+#EXTVLCOPT:program=1006
+http://192.168.100.6:8001/1:0:19:3EE:50DC:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="1007" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:3EF:50DC:16E:A00000:0:0:0:" tvg-name="SS-4 HD",SS-4 HD
+#EXTVLCOPT:program=1007
+http://192.168.100.6:8001/1:0:19:3EF:50DC:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="9314" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:2462:440:1:C00000:0:0:0:" tvg-name="BEIN SPORTS 1",BEIN SPORTS 1
+#EXTVLCOPT:program=9314
+http://192.168.100.6:8001/1:0:19:2462:440:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="8210" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:2012:430:1:C00000:0:0:0:" tvg-name="BEIN SPORTS 2",BEIN SPORTS 2
+#EXTVLCOPT:program=8210
+http://192.168.100.6:8001/1:0:19:2012:430:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="8211" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:2013:430:1:C00000:0:0:0:" tvg-name="BEIN SPORTS 3",BEIN SPORTS 3
+#EXTVLCOPT:program=8211
+http://192.168.100.6:8001/1:0:19:2013:430:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="132" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:84:9:85:C00000:0:0:0:" tvg-name="DAZN 1 HD",DAZN 1 HD
+#EXTVLCOPT:program=132
+http://192.168.100.6:8001/1:0:19:84:9:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="122" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:7A:10:85:C00000:0:0:0:" tvg-name="DAZN 2 HD",DAZN 2 HD
+#EXTVLCOPT:program=122
+http://192.168.100.6:8001/1:0:19:7A:10:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30805" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:7855:41A:1:C00000:0:0:0:" tvg-name="DAZN 1 HD",DAZN 1 HD
+#EXTVLCOPT:program=30805
+http://192.168.100.6:8001/1:0:19:7855:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30815" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:785F:41A:1:C00000:0:0:0:" tvg-name="DAZN 2 HD",DAZN 2 HD
+#EXTVLCOPT:program=30815
+http://192.168.100.6:8001/1:0:19:785F:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29912" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:74D8:3F8:1:C00000:0:0:0:" tvg-name="DAZN 3 HD",DAZN 3 HD
+#EXTVLCOPT:program=29912
+http://192.168.100.6:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29910" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:74D6:3F8:1:C00000:0:0:0:" tvg-name="DAZN 4 HD",DAZN 4 HD
+#EXTVLCOPT:program=29910
+http://192.168.100.6:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="7510" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1D56:2A:55:13B0000:0:0:0:" tvg-name="Setanta Eurasia",Setanta Eurasia
+#EXTVLCOPT:program=7510
+http://192.168.100.6:8001/1:0:19:1D56:2A:55:13B0000:0:0:0:
+#EXTINF:-1 tvg-chno="7520" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1D60:2A:55:13B0000:0:0:0:" tvg-name="Setanta Eurasia+",Setanta Eurasia+
+#EXTVLCOPT:program=7520
+http://192.168.100.6:8001/1:0:19:1D60:2A:55:13B0000:0:0:0:
+#EXTINF:-1 tvg-chno="1708" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:6AC:7:42:1A40000:0:0:0:" tvg-name="NBA TV",NBA TV
+#EXTVLCOPT:program=1708
+http://192.168.100.6:8001/1:0:19:6AC:7:42:1A40000:0:0:0:
+#EXTINF:-1 tvg-chno="1904" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:770:9:42:1A40000:0:0:0:" tvg-name="S SPORT",S SPORT
+#EXTVLCOPT:program=1904
+http://192.168.100.6:8001/1:0:19:770:9:42:1A40000:0:0:0:
+#EXTINF:-1 tvg-chno="1902" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:76E:9:42:1A40000:0:0:0:" tvg-name="S SPORT2",S SPORT2
+#EXTVLCOPT:program=1902
+http://192.168.100.6:8001/1:0:19:76E:9:42:1A40000:0:0:0:
+#EXTINF:-1 tvg-chno="1903" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:76F:9:42:1A40000:0:0:0:" tvg-name="SPORSMART",SPORSMART
+#EXTVLCOPT:program=1903
+http://192.168.100.6:8001/1:0:19:76F:9:42:1A40000:0:0:0:
+#EXTINF:-1 tvg-chno="1714" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:6B2:7:42:1A40000:0:0:0:" tvg-name="SPORSMART 2",SPORSMART 2
+#EXTVLCOPT:program=1714
+http://192.168.100.6:8001/1:0:19:6B2:7:42:1A40000:0:0:0:
