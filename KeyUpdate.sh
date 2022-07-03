@@ -8,7 +8,7 @@ FIN="==================================================";
 echo $FIN;
 echo ".....:: Parakalw perimenete .... PLEASE WAIT ::.....";
 ##################################################
-URL="https://raw.githubusercontent.com/smcam/s/main/SoftCam.Key";
+URL="http://www.softcam.org/deneme6.php?file=SoftCam.Key";
 # Files
 TMP=`mktemp -d`
 cd ${TMP}
