@@ -1,35 +1,5 @@
 #EXTM3U 
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:1:64:FFFF:1EB11D:0:0:0:" tvg-name="Novasports Prime HD",Novasports Prime HD
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,SNG ABC 1
 #EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:1:1:64:FFFF:1EB11D:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1:0:0:642AD0:0:0:0:" tvg-name="Novasports 1HD",Novasports 1HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:19:1:0:0:642AD0:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1:0:1:642AD9:0:0:0:" tvg-name="Novasports 2HD",Novasports 2HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:19:1:0:1:642AD9:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1:0:0:642B3E:0:0:0:" tvg-name="Novasports 3HD",Novasports 3HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:19:1:0:0:642B3E:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:1:1:FFFF:186AB0C:0:0:0:" tvg-name="Novasports 4HD",Novasports 4HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:1:1:1:FFFF:186AB0C:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1:0:1:186ABAD:0:0:0:" tvg-name="Novasports 5HD",Novasports 5HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:19:1:0:1:186ABAD:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1:0:1:186ABA7:0:0:0:" tvg-name="Novasports 6HD",Novasports 6HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:19:1:0:1:186ABA7:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:1:1:FFFF:186AB9C:0:0:0:" tvg-name="Cosmote Sport 1 HD",Cosmote Sport 1 HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:1:1:1:FFFF:186AB9C:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1:1:1:186AB72:0:0:0:" tvg-name="Cosmote Sport 2 HD",Cosmote Sport 2 HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:19:1:1:1:186AB72:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:1:1:FFFF:186ABB5:0:0:0:" tvg-name="Cosmote Sport 3 HD",Cosmote Sport 3 HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:1:1:1:FFFF:186ABB5:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:1:64:FFFF:186ABB5:0:0:0:" tvg-name="Cosmote Sport 4 HD",Cosmote Sport 4 HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:1:1:64:FFFF:186ABB5:0:0:0:
+http://192.168.100.6:8001/1:0:19:1:1:1:64B163:0:0:0:
