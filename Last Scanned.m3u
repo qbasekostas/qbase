@@ -1,5 +1,0 @@
-#EXTM3U 
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:1:1:FFFF:643106:0:0:0:" tvg-name="NOVA Uplink Station",NOVA Uplink Station
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:1:1:1:FFFF:643106:0:0:0:
