@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXTVLCOPT:http-reconnect=true 
 #EXTINF:-1,BissFeed
-http://192.168.100.6:8001/1:0:19:1:1:1:64B163:0:0:0:
+http://192.168.100.6:8001/1:0:0:1:0:0:642B25:0:0:0:
