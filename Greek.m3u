@@ -1,80 +1,37 @@
 #EXTM3U 
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-chno="7174" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1C06:29:46:E080000:0:0:0:" tvg-name="BBC Earth HD",BBC Earth HD
-#EXTVLCOPT:program=7174
-http://192.168.100.6:8001/1:0:19:1C06:29:46:E080000:0:0:0:
-#EXTINF:-1 tvg-chno="4202" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:106A:29:46:E080000:0:0:0:" tvg-name="HISTORY HD",HISTORY HD
-#EXTVLCOPT:program=4202
-http://192.168.100.6:8001/1:0:19:106A:29:46:E080000:0:0:0:
-#EXTINF:-1 tvg-chno="7816" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:1E88:14:46:E080000:0:0:0:" tvg-name="Crime + Investigation Europe",Crime + Investigation Europe
-#EXTVLCOPT:program=7816
-http://192.168.100.6:8001/1:0:1:1E88:14:46:E080000:0:0:0:
-#EXTINF:-1 tvg-chno="5700" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1644:C3AA:9E:5A0000:0:0:0:" tvg-name="Science Europe HD",Science Europe HD
-#EXTVLCOPT:program=5700
-http://192.168.100.6:8001/1:0:19:1644:C3AA:9E:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="5500" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:157C:C3AA:9E:5A0000:0:0:0:" tvg-name="ID Pan Regional HD",ID Pan Regional HD
-#EXTVLCOPT:program=5500
-http://192.168.100.6:8001/1:0:19:157C:C3AA:9E:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="5800" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:16:16A8:C3AA:9E:5A0000:0:0:0:" tvg-name="TLC Pan Regional SD",TLC Pan Regional SD
-#EXTVLCOPT:program=5800
-http://192.168.100.6:8001/1:0:16:16A8:C3AA:9E:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="5400" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1518:C3AA:9E:5A0000:0:0:0:" tvg-name="Animal Planet Europe HD",Animal Planet Europe HD
-#EXTVLCOPT:program=5400
-http://192.168.100.6:8001/1:0:19:1518:C3AA:9E:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="5300" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:14B4:C3AA:9E:5A0000:0:0:0:" tvg-name="Discovery Central Europe HD",Discovery Central Europe HD
-#EXTVLCOPT:program=5300
-http://192.168.100.6:8001/1:0:19:14B4:C3AA:9E:5A0000:0:0:0:
-#EXTINF:-1 tvg-chno="16925" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:421D:2F44:13E:820000:0:0:0:" tvg-name="Baby TV",Baby TV
-#EXTVLCOPT:program=16925
-http://192.168.100.6:8001/1:0:1:421D:2F44:13E:820000:0:0:0:
-#EXTINF:-1 tvg-chno="4332" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:10EC:3E8:13E:820000:0:0:0:" tvg-name="Food Network HD EMEA",Food Network HD EMEA
-#EXTVLCOPT:program=4332
-http://192.168.100.6:8001/1:0:19:10EC:3E8:13E:820000:0:0:0:
-#EXTINF:-1 tvg-chno="1116" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:45C:526C:16E:A00000:0:0:0:" tvg-name="Viasat History",Viasat History
-#EXTVLCOPT:program=1116
-http://192.168.100.6:8001/1:0:19:45C:526C:16E:A00000:0:0:0:
-#EXTINF:-1 tvg-chno="1114" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:45A:526C:16E:A00000:0:0:0:" tvg-name="Viasat Nature",Viasat Nature
-#EXTVLCOPT:program=1114
-http://192.168.100.6:8001/1:0:19:45A:526C:16E:A00000:0:0:0:
-#EXTINF:-1 tvg-chno="1115" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:45B:526C:16E:A00000:0:0:0:" tvg-name="Viasat Explore",Viasat Explore
-#EXTVLCOPT:program=1115
-http://192.168.100.6:8001/1:0:19:45B:526C:16E:A00000:0:0:0:
-#EXTINF:-1 tvg-chno="5011" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1393:3EA:1:C00000:0:0:0:" tvg-name="INSIGHT TV HD INT",INSIGHT TV HD INT
-#EXTVLCOPT:program=5011
-http://192.168.100.6:8001/1:0:19:1393:3EA:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="772" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:304:C94:3:EB0000:0:0:0:" tvg-name="National Geographic Wild HD",National Geographic Wild HD
-#EXTVLCOPT:program=772
-http://192.168.100.6:8001/1:0:19:304:C94:3:EB0000:0:0:0:
-#EXTINF:-1 tvg-chno="7165" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:19:1BFD:C88:3:EB0000:0:0:0:" tvg-name="Nautical HD",Nautical HD
-#EXTVLCOPT:program=7165
-http://192.168.100.6:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
-#EXTINF:-1 tvg-chno="40" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:28:2:212C:1860000:0:0:0:" tvg-name="ERT 1 HD",ERT 1 HD
-#EXTVLCOPT:program=40
-http://192.168.100.6:8001/1:0:1:28:2:212C:1860000:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:1:1:212C:1860000:0:0:0:" tvg-name="ERT 2 HD",ERT 2 HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:1:1:1:212C:1860000:0:0:0:
-#EXTINF:-1 tvg-chno="2" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:2:1:212C:1860000:0:0:0:" tvg-name="ERT 3 HD",ERT 3 HD
-#EXTVLCOPT:program=2
-http://192.168.100.6:8001/1:0:1:2:1:212C:1860000:0:0:0:
-#EXTINF:-1 tvg-chno="1200" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:4B0:65:212C:1860000:0:0:0:" tvg-name="SKAI HD",SKAI HD
-#EXTVLCOPT:program=1200
-http://192.168.100.6:8001/1:0:1:4B0:65:212C:1860000:0:0:0:
-#EXTINF:-1 tvg-chno="1100" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:44C:65:212C:1860000:0:0:0:" tvg-name="ALPHA HD",ALPHA HD
-#EXTVLCOPT:program=1100
-http://192.168.100.6:8001/1:0:1:44C:65:212C:1860000:0:0:0:
-#EXTINF:-1 tvg-chno="1600" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:640:67:212C:1860000:0:0:0:" tvg-name="MEGA HD",MEGA HD
-#EXTVLCOPT:program=1600
-http://192.168.100.6:8001/1:0:1:640:67:212C:1860000:0:0:0:
-#EXTINF:-1 tvg-chno="1300" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:514:65:212C:1860000:0:0:0:" tvg-name="ANT1 HD",ANT1 HD
-#EXTVLCOPT:program=1300
-http://192.168.100.6:8001/1:0:1:514:65:212C:1860000:0:0:0:
-#EXTINF:-1 tvg-chno="1500" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:5DC:67:212C:1860000:0:0:0:" tvg-name="STAR HD",STAR HD
-#EXTVLCOPT:program=1500
-http://192.168.100.6:8001/1:0:1:5DC:67:212C:1860000:0:0:0:
-#EXTINF:-1 tvg-chno="1400" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:578:65:212C:1860000:0:0:0:" tvg-name="OPEN BEYOND HD",OPEN BEYOND HD
-#EXTVLCOPT:program=1400
-http://192.168.100.6:8001/1:0:1:578:65:212C:1860000:0:0:0:
-#EXTINF:-1 tvg-chno="1700" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:6A4:67:212C:1860000:0:0:0:" tvg-name="m.TV HD",m.TV HD
-#EXTVLCOPT:program=1700
-http://192.168.100.6:8001/1:0:1:6A4:67:212C:1860000:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/CosmoteSport1/index.m3u8:Cosmote%20Sport%201
+#DESCRIPTION Cosmote Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/CosmoteSport2/index.m3u8:Cosmote%20Sport%202
+#DESCRIPTION Cosmote Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/CosmoteSport3/index.m3u8:GR:%20Cosmote%20Sport%203
+#DESCRIPTION GR: Cosmote Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/CosmoteSport4/index.m3u8:GR:%20Cosmote%20Sport%204
+#DESCRIPTION GR: Cosmote Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/CosmoteSport5/index.m3u8:Cosmote%20Sport%205
+#DESCRIPTION Cosmote Sport 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/CosmoteSport6/index.m3u8:GR:%20Cosmote%20Sport%206
+#DESCRIPTION GR: Cosmote Sport 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/CosmoteSport7/index.m3u8:GR:%20Cosmote%20Sport%207
+#DESCRIPTION GR: Cosmote Sport 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/CosmoteSport8/index.m3u8:Cosmote%20Sport%208
+#DESCRIPTION Cosmote Sport 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/CosmoteSport9/index.m3u8:Cosmote%20Sport%209
+#DESCRIPTION Cosmote Sport 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/NovaSportsPrime/index.m3u8:Nova%20Sports%20Prime
+#DESCRIPTION Nova Sports Prime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/NovaSportsStart/index.m3u8:Nova%20Sports%20Start
+#DESCRIPTION Nova Sports Start
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/NovaSports1/index.m3u8:Nova%20Sports%201
+#DESCRIPTION Nova Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/NovaSports2/index.m3u8:Nova%20Sports%202
+#DESCRIPTION Nova Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/NovaSports3/index.m3u8:Nova%20Sports%203
+#DESCRIPTION Nova Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/NovaSports4/index.m3u8:Nova%20Sports%204
+#DESCRIPTION Nova Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/NovaSports5/index.m3u8:Nova%20Sports%205
+#DESCRIPTION Nova Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/NovaSports6/index.m3u8:Nova%20Sports%206
+#DESCRIPTION Nova Sports 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.49.224.40%3a8000/play/NovaSportsNews/index.m3u8:Nova%20Sports%20News
+#DESCRIPTION Nova Sports News
