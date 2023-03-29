@@ -1,5 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Plateia Syntagmatos",Plateia Syntagmatos
 #EXTVLCOPT:http-referrer=http://www.forecastweather.gr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
 http://94.23.219.56:8081/live/plateiasyntagmatos/chunks.m3u8
