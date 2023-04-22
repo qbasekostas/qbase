@@ -1,38 +1,25 @@
 #EXTM3U 
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-chno="40" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:28:2:212C:EEEE0000:0:0:0:" tvg-name="ERT 1 HD",ERT 1 HD
-#EXTVLCOPT:program=40
-http://192.168.100.6:8001/1:0:1:28:2:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:1:1:212C:EEEE0000:0:0:0:" tvg-name="ERT 2 HD",ERT 2 HD
-#EXTVLCOPT:program=1
-http://192.168.100.6:8001/1:0:1:1:1:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="2" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:2:1:212C:EEEE0000:0:0:0:" tvg-name="ERT 3 HD",ERT 3 HD
-#EXTVLCOPT:program=2
-http://192.168.100.6:8001/1:0:1:2:1:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="5060" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:13C4:1A5:212C:EEEE0000:0:0:0:" tvg-name="SMILE",SMILE
-#EXTVLCOPT:program=5060
-http://192.168.100.6:8001/1:0:1:13C4:1A5:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="5040" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:13B0:1A5:212C:EEEE0000:0:0:0:" tvg-name="NICKELODEON",NICKELODEON
-#EXTVLCOPT:program=5040
-http://192.168.100.6:8001/1:0:1:13B0:1A5:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="1200" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:4B0:65:212C:EEEE0000:0:0:0:" tvg-name="SKAI HD",SKAI HD
-#EXTVLCOPT:program=1200
-http://192.168.100.6:8001/1:0:1:4B0:65:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="1100" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:44C:65:212C:EEEE0000:0:0:0:" tvg-name="ALPHA HD",ALPHA HD
-#EXTVLCOPT:program=1100
-http://192.168.100.6:8001/1:0:1:44C:65:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="1600" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:640:67:212C:EEEE0000:0:0:0:" tvg-name="MEGA HD",MEGA HD
-#EXTVLCOPT:program=1600
-http://192.168.100.6:8001/1:0:1:640:67:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="1300" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:514:65:212C:EEEE0000:0:0:0:" tvg-name="ANT1 HD",ANT1 HD
-#EXTVLCOPT:program=1300
-http://192.168.100.6:8001/1:0:1:514:65:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="1500" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:5DC:67:212C:EEEE0000:0:0:0:" tvg-name="STAR HD",STAR HD
-#EXTVLCOPT:program=1500
-http://192.168.100.6:8001/1:0:1:5DC:67:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="1400" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:578:65:212C:EEEE0000:0:0:0:" tvg-name="OPEN BEYOND HD",OPEN BEYOND HD
-#EXTVLCOPT:program=1400
-http://192.168.100.6:8001/1:0:1:578:65:212C:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="1700" tvg-logo="http://192.168.100.6/images/default_picon.png" tvg-id="1:0:1:6A4:67:212C:EEEE0000:0:0:0:" tvg-name="m.TV HD",m.TV HD
-#EXTVLCOPT:program=1700
-http://192.168.100.6:8001/1:0:1:6A4:67:212C:EEEE0000:0:0:0:
+#EXTINF:-1 ERT 1 HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:28:2:212C:EEEE0000:0:0:0:
+#EXTINF:-1 ERT 2 HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:1:1:212C:EEEE0000:0:0:0:
+#EXTINF:-1 ERT 3 HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:2:1:212C:EEEE0000:0:0:0:
+#EXTINF:-1 SMILE
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:13C4:1A5:212C:EEEE0000:0:0:0:
+#EXTINF:-1 NICKELODEON
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:13B0:1A5:212C:EEEE0000:0:0:0:
+#EXTINF:-1 SKAI HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:4B0:65:212C:EEEE0000:0:0:0:
+#EXTINF:-1 ALPHA HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:44C:65:212C:EEEE0000:0:0:0:
+#EXTINF:-1 MEGA HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:640:67:212C:EEEE0000:0:0:0:
+#EXTINF:-1 ANT1 HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:514:65:212C:EEEE0000:0:0:0:
+#EXTINF:-1 STAR HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:5DC:67:212C:EEEE0000:0:0:0:
+#EXTINF:-1 OPEN BEYOND HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:578:65:212C:EEEE0000:0:0:0:
+#EXTINF:-1 m.TV HD
+http://root:13Ikaria13@ 192.168.100.6:8001/1:0:1:6A4:67:212C:EEEE0000:0:0:0:
