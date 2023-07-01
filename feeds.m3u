@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Plateia Syntagmatos",Plateia Syntagmatos
 #EXTVLCOPT:http-referrer=http://www.forecastweather.gr/
-http://94.23.219.56:8081/live/plateiasyntagmatos/chunks.m3u8
+#EXTINF:-1 tvg-name="Plateia Syntagmatos",Plateia Syntagmatos
+http://94.23.219.56:8081/live/plateiasyntagmatos/playlist.m3u8
