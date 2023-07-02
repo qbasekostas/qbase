@@ -1,5 +1,5 @@
 #EXTM3U
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8:ANT1 Comedy
-#DESCRIPTION ANT1 Comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8:ANT1 Drama
-#DESCRIPTION ANT1 Drama
+#EXTINF:-1 tvg-name="ANT1 Comedy",ANT1 Comedy
+https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
+#EXTINF:-1 tvg-name="ANT1 Drama",ANT1 Drama
+https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
