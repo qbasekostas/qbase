@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=http://www.forecastweather.gr/
-#EXTINF:-1 tvg-name="Plateia Syntagmatos",Plateia Syntagmatos
-http://94.23.219.56:8081/live/plateiasyntagmatos/playlist.m3u8
+#EXTINF:-1 ANT1 Comedy
+https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
+#EXTINF:-1 ANT1 Drama
+https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
