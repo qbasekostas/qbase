@@ -1,2 +1,4 @@
 #EXTM3U
-
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1, FootballStreams
+https%3a//us.livenflstream.xyz/playlist/stream_1.m3u8
